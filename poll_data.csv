@@ -1,0 +1,1201 @@
+respondent_id,date,region,age_group,gender,education,device,Q1: Best programming language for beginners?,Q2: Preferred work mode?,Q3: Most important skill in 2024?,Q4: Preferred learning platform?,Q5: Job satisfaction level?
+R0001,2024-01-01,South,55+,Female,Bachelor,Mobile,Python,Remote,Data Analytics,Udemy,Neutral
+R0002,2024-01-01,North,55+,Female,Bachelor,Mobile,Python,Remote,Cloud Computing,Coursera,Satisfied
+R0003,2024-01-01,West,18-24,Male,Bachelor,Mobile,Java,Remote,Cloud Computing,Udemy,Very Satisfied
+R0004,2024-01-01,West,18-24,Male,PhD,Tablet,Java,Remote,AI/ML,Udemy,Satisfied
+R0005,2024-01-02,North,35-44,Male,PhD,Mobile,JavaScript,Remote,Cloud Computing,Udemy,Very Satisfied
+R0006,2024-01-02,Central,45-54,Non-binary,PhD,Desktop,C++,Remote,AI/ML,YouTube,Satisfied
+R0007,2024-01-02,South,25-34,Female,Bachelor,Mobile,JavaScript,Remote,Data Analytics,YouTube,Very Dissatisfied
+R0008,2024-01-02,West,18-24,Male,Master,Desktop,Java,Hybrid,AI/ML,Coursera,Very Satisfied
+R0009,2024-01-03,Central,35-44,Male,High School,Mobile,Python,Hybrid,Cybersecurity,LinkedIn Learning,Satisfied
+R0010,2024-01-03,North,45-54,Female,Bachelor,Desktop,Python,Hybrid,Cloud Computing,YouTube,Very Satisfied
+R0011,2024-01-03,North,35-44,Male,Bachelor,Tablet,Python,Hybrid,Cybersecurity,YouTube,Very Satisfied
+R0012,2024-01-03,South,18-24,Non-binary,Master,Desktop,C++,On-site,AI/ML,LinkedIn Learning,Satisfied
+R0013,2024-01-04,West,55+,Male,High School,Mobile,Python,On-site,Data Analytics,YouTube,Satisfied
+R0014,2024-01-04,South,25-34,Male,Bachelor,Tablet,Python,Hybrid,Cybersecurity,Coursera,Very Dissatisfied
+R0015,2024-01-04,Central,25-34,Female,Bachelor,Mobile,Python,Hybrid,Cloud Computing,YouTube,Satisfied
+R0016,2024-01-04,Central,25-34,Male,Bachelor,Tablet,Python,Hybrid,Cybersecurity,YouTube,Neutral
+R0017,2024-01-05,South,35-44,Female,Bachelor,Mobile,C++,Remote,AI/ML,YouTube,Neutral
+R0018,2024-01-05,West,18-24,Female,Bachelor,Desktop,Python,Hybrid,Cloud Computing,Others,Very Satisfied
+R0019,2024-01-05,South,18-24,Non-binary,Master,Mobile,JavaScript,On-site,Cloud Computing,Coursera,Satisfied
+R0020,2024-01-05,North,55+,Female,Master,Mobile,Python,Hybrid,Data Analytics,LinkedIn Learning,Neutral
+R0021,2024-01-06,West,18-24,Male,PhD,Desktop,Python,Remote,Cybersecurity,YouTube,Very Satisfied
+R0022,2024-01-06,East,35-44,Female,Bachelor,Desktop,Python,Remote,Cybersecurity,Udemy,Dissatisfied
+R0023,2024-01-06,West,35-44,Male,Bachelor,Mobile,Python,On-site,Cloud Computing,LinkedIn Learning,Neutral
+R0024,2024-01-06,West,35-44,Female,Bachelor,Mobile,Java,Remote,AI/ML,Udemy,Very Satisfied
+R0025,2024-01-07,Central,55+,Female,Bachelor,Mobile,C++,Hybrid,Blockchain,Others,Dissatisfied
+R0026,2024-01-07,South,25-34,Female,Bachelor,Mobile,JavaScript,On-site,Cybersecurity,Udemy,Very Satisfied
+R0027,2024-01-07,West,55+,Male,Bachelor,Desktop,Java,Hybrid,Cybersecurity,Coursera,Satisfied
+R0028,2024-01-07,West,45-54,Female,PhD,Mobile,JavaScript,On-site,Cybersecurity,Udemy,Neutral
+R0029,2024-01-08,Central,25-34,Male,High School,Desktop,Python,Hybrid,Cloud Computing,YouTube,Neutral
+R0030,2024-01-08,North,18-24,Female,Bachelor,Mobile,JavaScript,Hybrid,AI/ML,Udemy,Very Satisfied
+R0031,2024-01-08,North,35-44,Female,Master,Desktop,Others,Hybrid,AI/ML,LinkedIn Learning,Satisfied
+R0032,2024-01-08,East,18-24,Male,PhD,Desktop,JavaScript,Hybrid,AI/ML,YouTube,Satisfied
+R0033,2024-01-09,East,45-54,Female,Bachelor,Tablet,Java,Hybrid,Cybersecurity,Coursera,Satisfied
+R0034,2024-01-09,South,45-54,Male,High School,Mobile,Python,On-site,Cybersecurity,Coursera,Very Satisfied
+R0035,2024-01-09,East,25-34,Male,Bachelor,Mobile,JavaScript,Hybrid,AI/ML,Coursera,Neutral
+R0036,2024-01-09,East,45-54,Female,High School,Mobile,JavaScript,Remote,Cloud Computing,Others,Neutral
+R0037,2024-01-10,South,35-44,Male,Bachelor,Tablet,Python,On-site,Data Analytics,YouTube,Very Satisfied
+R0038,2024-01-10,North,18-24,Male,Master,Mobile,Python,On-site,AI/ML,LinkedIn Learning,Satisfied
+R0039,2024-01-10,North,35-44,Female,Master,Desktop,Java,Remote,AI/ML,Udemy,Neutral
+R0040,2024-01-10,Central,25-34,Male,Master,Mobile,Others,On-site,Cloud Computing,Udemy,Neutral
+R0041,2024-01-11,North,55+,Female,Master,Mobile,C++,Hybrid,AI/ML,Others,Very Satisfied
+R0042,2024-01-11,South,55+,Non-binary,Bachelor,Desktop,JavaScript,Remote,AI/ML,Udemy,Neutral
+R0043,2024-01-11,West,45-54,Male,Bachelor,Mobile,JavaScript,Hybrid,Data Analytics,Coursera,Very Satisfied
+R0044,2024-01-11,North,45-54,Female,High School,Mobile,JavaScript,Remote,Data Analytics,Udemy,Very Satisfied
+R0045,2024-01-12,North,55+,Male,Bachelor,Desktop,Others,On-site,Cybersecurity,Coursera,Very Satisfied
+R0046,2024-01-12,West,35-44,Male,PhD,Mobile,JavaScript,Remote,Cloud Computing,YouTube,Very Satisfied
+R0047,2024-01-12,North,35-44,Female,Bachelor,Tablet,Python,Remote,Data Analytics,YouTube,Very Dissatisfied
+R0048,2024-01-12,North,55+,Male,PhD,Mobile,Others,Remote,Cloud Computing,Others,Satisfied
+R0049,2024-01-13,West,35-44,Male,Master,Desktop,C++,Remote,AI/ML,Others,Dissatisfied
+R0050,2024-01-13,East,35-44,Male,High School,Mobile,Python,Hybrid,AI/ML,Others,Very Dissatisfied
+R0051,2024-01-13,West,35-44,Male,Master,Desktop,Python,On-site,Data Analytics,Others,Neutral
+R0052,2024-01-13,West,25-34,Non-binary,Master,Mobile,Python,Remote,Data Analytics,Others,Very Satisfied
+R0053,2024-01-14,East,25-34,Prefer not to say,Master,Desktop,Python,Hybrid,AI/ML,YouTube,Dissatisfied
+R0054,2024-01-14,West,55+,Prefer not to say,Bachelor,Desktop,Others,On-site,AI/ML,Coursera,Very Satisfied
+R0055,2024-01-14,Central,35-44,Male,Master,Desktop,Python,Remote,Cybersecurity,Coursera,Neutral
+R0056,2024-01-14,East,45-54,Female,Bachelor,Desktop,Python,Remote,AI/ML,Udemy,Neutral
+R0057,2024-01-15,West,25-34,Male,High School,Mobile,JavaScript,Hybrid,Cloud Computing,Others,Satisfied
+R0058,2024-01-15,East,45-54,Male,Master,Desktop,Others,Remote,Data Analytics,Coursera,Satisfied
+R0059,2024-01-15,East,55+,Female,Bachelor,Desktop,Python,Remote,AI/ML,YouTube,Very Satisfied
+R0060,2024-01-15,North,35-44,Male,Bachelor,Desktop,Python,Hybrid,AI/ML,YouTube,Very Satisfied
+R0061,2024-01-16,North,25-34,Male,High School,Mobile,Python,Remote,Cloud Computing,Coursera,Neutral
+R0062,2024-01-16,North,45-54,Female,High School,Desktop,C++,Remote,AI/ML,LinkedIn Learning,Neutral
+R0063,2024-01-16,North,25-34,Male,Bachelor,Desktop,Python,Hybrid,Cybersecurity,YouTube,Satisfied
+R0064,2024-01-16,West,55+,Female,Bachelor,Mobile,Python,Hybrid,AI/ML,YouTube,Satisfied
+R0065,2024-01-17,North,25-34,Male,Bachelor,Mobile,C++,Hybrid,Cybersecurity,LinkedIn Learning,Satisfied
+R0066,2024-01-17,North,35-44,Female,Master,Mobile,Python,Remote,Cloud Computing,Udemy,Neutral
+R0067,2024-01-17,South,55+,Female,Bachelor,Mobile,Python,Remote,AI/ML,YouTube,Satisfied
+R0068,2024-01-17,North,55+,Male,Bachelor,Mobile,Others,Remote,Cloud Computing,Others,Dissatisfied
+R0069,2024-01-18,West,25-34,Male,Master,Tablet,JavaScript,Hybrid,AI/ML,LinkedIn Learning,Very Satisfied
+R0070,2024-01-18,South,25-34,Female,Bachelor,Mobile,JavaScript,Remote,Cloud Computing,YouTube,Satisfied
+R0071,2024-01-18,East,18-24,Male,High School,Mobile,Others,Remote,Data Analytics,YouTube,Neutral
+R0072,2024-01-18,West,35-44,Male,Bachelor,Mobile,C++,On-site,Blockchain,YouTube,Neutral
+R0073,2024-01-19,Central,18-24,Male,Master,Desktop,C++,Remote,Cybersecurity,YouTube,Very Satisfied
+R0074,2024-01-19,North,45-54,Female,Bachelor,Mobile,C++,Hybrid,Data Analytics,Coursera,Satisfied
+R0075,2024-01-19,East,25-34,Female,Bachelor,Mobile,C++,Hybrid,Cloud Computing,Others,Neutral
+R0076,2024-01-19,North,55+,Female,Bachelor,Mobile,Java,Hybrid,Cloud Computing,LinkedIn Learning,Neutral
+R0077,2024-01-20,North,25-34,Male,Master,Mobile,JavaScript,Hybrid,Data Analytics,Coursera,Dissatisfied
+R0078,2024-01-20,North,45-54,Male,Bachelor,Desktop,Python,Remote,Cybersecurity,Udemy,Neutral
+R0079,2024-01-20,West,35-44,Male,Bachelor,Mobile,C++,Hybrid,Cloud Computing,Coursera,Dissatisfied
+R0080,2024-01-20,North,35-44,Female,Master,Mobile,C++,On-site,Cloud Computing,Udemy,Dissatisfied
+R0081,2024-01-21,West,18-24,Female,Master,Mobile,Java,On-site,Data Analytics,Coursera,Very Satisfied
+R0082,2024-01-21,Central,45-54,Male,PhD,Desktop,JavaScript,Hybrid,Cloud Computing,YouTube,Satisfied
+R0083,2024-01-21,West,18-24,Male,Bachelor,Mobile,C++,Remote,AI/ML,Udemy,Satisfied
+R0084,2024-01-21,South,25-34,Male,High School,Mobile,Python,On-site,Cloud Computing,Udemy,Neutral
+R0085,2024-01-22,North,35-44,Male,PhD,Mobile,Python,Remote,Blockchain,Coursera,Neutral
+R0086,2024-01-22,North,45-54,Male,PhD,Mobile,Python,Remote,Cloud Computing,Udemy,Very Satisfied
+R0087,2024-01-22,West,25-34,Female,Bachelor,Mobile,JavaScript,Remote,AI/ML,LinkedIn Learning,Dissatisfied
+R0088,2024-01-22,South,25-34,Female,Bachelor,Mobile,Python,Hybrid,Cybersecurity,YouTube,Satisfied
+R0089,2024-01-23,South,35-44,Male,High School,Desktop,Python,Hybrid,AI/ML,YouTube,Satisfied
+R0090,2024-01-23,West,45-54,Female,Bachelor,Desktop,Python,Remote,Data Analytics,YouTube,Very Satisfied
+R0091,2024-01-23,North,18-24,Male,Bachelor,Mobile,C++,On-site,AI/ML,YouTube,Satisfied
+R0092,2024-01-23,East,25-34,Female,Bachelor,Desktop,Python,Remote,Data Analytics,LinkedIn Learning,Very Satisfied
+R0093,2024-01-24,Central,35-44,Female,Master,Mobile,Python,Remote,Cloud Computing,Udemy,Satisfied
+R0094,2024-01-24,North,45-54,Prefer not to say,Bachelor,Mobile,Python,Remote,Data Analytics,YouTube,Neutral
+R0095,2024-01-24,South,35-44,Female,Master,Mobile,Python,Remote,Data Analytics,LinkedIn Learning,Neutral
+R0096,2024-01-24,West,35-44,Male,PhD,Mobile,Python,Hybrid,AI/ML,YouTube,Neutral
+R0097,2024-01-25,North,35-44,Male,Bachelor,Mobile,Python,Hybrid,AI/ML,Udemy,Satisfied
+R0098,2024-01-25,West,55+,Female,Bachelor,Mobile,Python,Hybrid,AI/ML,Coursera,Neutral
+R0099,2024-01-25,South,45-54,Male,High School,Desktop,JavaScript,Hybrid,Cloud Computing,YouTube,Neutral
+R0100,2024-01-25,West,35-44,Male,Bachelor,Mobile,Python,On-site,AI/ML,Others,Satisfied
+R0101,2024-01-26,North,35-44,Female,Master,Desktop,JavaScript,Hybrid,Data Analytics,YouTube,Satisfied
+R0102,2024-01-26,South,55+,Non-binary,High School,Desktop,C++,Remote,Cloud Computing,Others,Very Satisfied
+R0103,2024-01-26,West,25-34,Non-binary,PhD,Tablet,Python,On-site,Data Analytics,Coursera,Dissatisfied
+R0104,2024-01-26,North,35-44,Male,High School,Mobile,JavaScript,Remote,Cybersecurity,YouTube,Satisfied
+R0105,2024-01-27,East,45-54,Male,Master,Desktop,JavaScript,Remote,AI/ML,LinkedIn Learning,Very Satisfied
+R0106,2024-01-27,Central,35-44,Non-binary,Master,Tablet,Python,Hybrid,Cloud Computing,Coursera,Neutral
+R0107,2024-01-27,Central,55+,Female,Bachelor,Mobile,Java,Remote,AI/ML,Coursera,Satisfied
+R0108,2024-01-27,South,25-34,Male,High School,Tablet,Python,Hybrid,Cybersecurity,YouTube,Dissatisfied
+R0109,2024-01-28,West,18-24,Male,Master,Tablet,Python,Hybrid,AI/ML,Others,Satisfied
+R0110,2024-01-28,Central,35-44,Female,Bachelor,Mobile,Python,Remote,AI/ML,LinkedIn Learning,Satisfied
+R0111,2024-01-28,North,55+,Female,PhD,Tablet,Python,Hybrid,Cybersecurity,Udemy,Very Satisfied
+R0112,2024-01-28,West,25-34,Male,Bachelor,Desktop,JavaScript,Remote,Data Analytics,YouTube,Very Satisfied
+R0113,2024-01-29,Central,55+,Female,Master,Desktop,JavaScript,Remote,Cloud Computing,Coursera,Satisfied
+R0114,2024-01-29,West,35-44,Male,Bachelor,Desktop,Python,On-site,Cloud Computing,Coursera,Neutral
+R0115,2024-01-29,Central,25-34,Female,Bachelor,Mobile,C++,On-site,Cybersecurity,LinkedIn Learning,Dissatisfied
+R0116,2024-01-29,West,45-54,Female,Master,Desktop,Java,Remote,Data Analytics,LinkedIn Learning,Very Satisfied
+R0117,2024-01-30,Central,18-24,Male,Master,Mobile,Java,On-site,Cloud Computing,YouTube,Satisfied
+R0118,2024-01-30,West,55+,Female,Bachelor,Desktop,JavaScript,Hybrid,AI/ML,LinkedIn Learning,Satisfied
+R0119,2024-01-30,Central,25-34,Female,PhD,Mobile,Others,Hybrid,AI/ML,Coursera,Neutral
+R0120,2024-01-30,North,35-44,Male,Master,Mobile,C++,On-site,Blockchain,Udemy,Very Satisfied
+R0121,2024-01-31,West,18-24,Male,Bachelor,Mobile,Java,Hybrid,Cloud Computing,YouTube,Very Dissatisfied
+R0122,2024-01-31,East,25-34,Male,Master,Desktop,Python,Remote,Cybersecurity,Udemy,Satisfied
+R0123,2024-01-31,Central,18-24,Male,PhD,Mobile,JavaScript,Hybrid,AI/ML,Others,Satisfied
+R0124,2024-01-31,Central,25-34,Male,High School,Desktop,Python,On-site,Cloud Computing,Others,Very Satisfied
+R0125,2024-02-01,Central,45-54,Female,Master,Desktop,JavaScript,Remote,AI/ML,Others,Neutral
+R0126,2024-02-01,West,35-44,Male,High School,Desktop,Python,Remote,Cloud Computing,YouTube,Neutral
+R0127,2024-02-01,South,45-54,Male,Bachelor,Mobile,Python,Hybrid,Cloud Computing,Udemy,Satisfied
+R0128,2024-02-01,West,45-54,Female,High School,Mobile,Python,Remote,Blockchain,YouTube,Satisfied
+R0129,2024-02-02,West,45-54,Female,High School,Mobile,JavaScript,Remote,Cloud Computing,YouTube,Very Satisfied
+R0130,2024-02-02,South,18-24,Female,Master,Desktop,Python,Remote,AI/ML,Udemy,Neutral
+R0131,2024-02-02,North,55+,Male,Bachelor,Desktop,C++,Hybrid,Data Analytics,Coursera,Neutral
+R0132,2024-02-02,North,55+,Female,Master,Mobile,JavaScript,Hybrid,Cybersecurity,YouTube,Very Satisfied
+R0133,2024-02-03,South,18-24,Female,Bachelor,Tablet,Python,Remote,Cybersecurity,Udemy,Satisfied
+R0134,2024-02-03,East,45-54,Male,PhD,Tablet,JavaScript,Remote,Cybersecurity,YouTube,Very Satisfied
+R0135,2024-02-03,South,25-34,Female,Master,Desktop,Python,Remote,Cloud Computing,Others,Very Satisfied
+R0136,2024-02-03,Central,35-44,Male,Master,Mobile,C++,On-site,Cloud Computing,YouTube,Neutral
+R0137,2024-02-04,Central,25-34,Female,Master,Desktop,Python,Hybrid,Data Analytics,YouTube,Satisfied
+R0138,2024-02-04,Central,18-24,Female,Bachelor,Mobile,C++,Hybrid,Cloud Computing,Coursera,Neutral
+R0139,2024-02-04,North,25-34,Prefer not to say,Bachelor,Desktop,Python,Hybrid,AI/ML,Others,Satisfied
+R0140,2024-02-04,South,18-24,Male,Bachelor,Mobile,Java,Hybrid,AI/ML,Udemy,Neutral
+R0141,2024-02-05,North,18-24,Male,Master,Desktop,Python,On-site,Data Analytics,Udemy,Dissatisfied
+R0142,2024-02-05,North,18-24,Male,High School,Mobile,C++,Remote,AI/ML,Coursera,Dissatisfied
+R0143,2024-02-05,South,35-44,Male,High School,Tablet,Others,Remote,Blockchain,Udemy,Dissatisfied
+R0144,2024-02-05,East,35-44,Female,Master,Mobile,Python,Remote,Cybersecurity,YouTube,Neutral
+R0145,2024-02-06,Central,18-24,Female,Bachelor,Desktop,Python,Hybrid,Data Analytics,Others,Neutral
+R0146,2024-02-06,East,35-44,Female,Bachelor,Mobile,Others,Hybrid,Cybersecurity,YouTube,Neutral
+R0147,2024-02-06,South,35-44,Male,Master,Tablet,Python,On-site,Cloud Computing,LinkedIn Learning,Neutral
+R0148,2024-02-06,East,45-54,Female,Bachelor,Mobile,JavaScript,On-site,Cybersecurity,LinkedIn Learning,Satisfied
+R0149,2024-02-07,West,18-24,Female,High School,Mobile,Python,Hybrid,Cybersecurity,Coursera,Satisfied
+R0150,2024-02-07,South,25-34,Male,High School,Desktop,JavaScript,Hybrid,Cloud Computing,Coursera,Dissatisfied
+R0151,2024-02-07,East,25-34,Male,Bachelor,Mobile,Python,Hybrid,Cloud Computing,Udemy,Neutral
+R0152,2024-02-07,West,45-54,Non-binary,High School,Mobile,Python,Hybrid,Data Analytics,YouTube,Dissatisfied
+R0153,2024-02-08,North,55+,Male,High School,Mobile,Python,Remote,AI/ML,LinkedIn Learning,Satisfied
+R0154,2024-02-08,South,35-44,Female,Bachelor,Mobile,Python,Remote,Cybersecurity,YouTube,Satisfied
+R0155,2024-02-08,West,18-24,Female,Bachelor,Tablet,JavaScript,On-site,Cloud Computing,YouTube,Neutral
+R0156,2024-02-08,Central,35-44,Female,PhD,Mobile,Python,Hybrid,Cloud Computing,LinkedIn Learning,Dissatisfied
+R0157,2024-02-09,South,25-34,Female,Bachelor,Desktop,Python,Hybrid,AI/ML,Udemy,Satisfied
+R0158,2024-02-09,East,18-24,Female,Master,Mobile,Python,Remote,Cybersecurity,Udemy,Satisfied
+R0159,2024-02-09,South,25-34,Female,Bachelor,Tablet,Python,Hybrid,Cloud Computing,Coursera,Neutral
+R0160,2024-02-09,West,55+,Male,High School,Desktop,JavaScript,Remote,AI/ML,YouTube,Dissatisfied
+R0161,2024-02-10,North,25-34,Male,Bachelor,Mobile,Python,Remote,Data Analytics,YouTube,Satisfied
+R0162,2024-02-10,Central,35-44,Female,Bachelor,Mobile,JavaScript,On-site,Cybersecurity,Udemy,Neutral
+R0163,2024-02-10,East,18-24,Female,PhD,Mobile,JavaScript,Remote,Cloud Computing,YouTube,Satisfied
+R0164,2024-02-10,West,25-34,Female,Master,Tablet,Python,Hybrid,AI/ML,Others,Dissatisfied
+R0165,2024-02-11,East,45-54,Female,Master,Mobile,Java,Remote,Data Analytics,LinkedIn Learning,Neutral
+R0166,2024-02-11,North,25-34,Male,Bachelor,Mobile,C++,Hybrid,AI/ML,Coursera,Satisfied
+R0167,2024-02-11,West,35-44,Female,Bachelor,Tablet,C++,Remote,Data Analytics,YouTube,Neutral
+R0168,2024-02-11,South,45-54,Female,Master,Desktop,Python,Remote,Cloud Computing,YouTube,Neutral
+R0169,2024-02-12,South,55+,Female,Master,Mobile,C++,On-site,Cloud Computing,Udemy,Neutral
+R0170,2024-02-12,North,35-44,Male,High School,Mobile,Python,Remote,AI/ML,Others,Satisfied
+R0171,2024-02-12,Central,25-34,Male,Bachelor,Mobile,Python,Hybrid,AI/ML,Udemy,Neutral
+R0172,2024-02-12,North,18-24,Female,Bachelor,Mobile,Others,Remote,Cybersecurity,Others,Satisfied
+R0173,2024-02-13,North,18-24,Male,High School,Desktop,Python,Hybrid,Blockchain,LinkedIn Learning,Neutral
+R0174,2024-02-13,South,35-44,Female,Bachelor,Mobile,C++,Hybrid,AI/ML,Coursera,Satisfied
+R0175,2024-02-13,Central,45-54,Female,High School,Mobile,JavaScript,Remote,AI/ML,LinkedIn Learning,Very Satisfied
+R0176,2024-02-13,East,25-34,Male,Bachelor,Tablet,Java,On-site,Cloud Computing,YouTube,Satisfied
+R0177,2024-02-14,East,45-54,Male,Bachelor,Mobile,Python,Hybrid,Cloud Computing,Coursera,Satisfied
+R0178,2024-02-14,East,45-54,Female,PhD,Desktop,Python,Hybrid,Cloud Computing,YouTube,Dissatisfied
+R0179,2024-02-14,North,55+,Male,Master,Desktop,C++,Hybrid,Cybersecurity,YouTube,Satisfied
+R0180,2024-02-14,North,45-54,Female,Master,Mobile,Python,Hybrid,AI/ML,YouTube,Very Satisfied
+R0181,2024-02-15,Central,45-54,Male,Bachelor,Mobile,Java,Hybrid,AI/ML,YouTube,Very Satisfied
+R0182,2024-02-15,West,45-54,Male,High School,Mobile,Others,Remote,Cybersecurity,Udemy,Satisfied
+R0183,2024-02-15,North,18-24,Female,Master,Desktop,JavaScript,Remote,Blockchain,LinkedIn Learning,Satisfied
+R0184,2024-02-15,Central,35-44,Female,Master,Desktop,JavaScript,Remote,AI/ML,Others,Satisfied
+R0185,2024-02-16,South,25-34,Male,Master,Tablet,Python,Remote,AI/ML,LinkedIn Learning,Neutral
+R0186,2024-02-16,South,45-54,Female,Master,Tablet,Python,Hybrid,Cloud Computing,LinkedIn Learning,Neutral
+R0187,2024-02-16,West,35-44,Male,Bachelor,Tablet,Others,Remote,AI/ML,YouTube,Neutral
+R0188,2024-02-16,West,25-34,Female,Master,Desktop,JavaScript,Hybrid,Cloud Computing,YouTube,Satisfied
+R0189,2024-02-17,West,45-54,Female,Master,Mobile,Python,Remote,AI/ML,Udemy,Very Dissatisfied
+R0190,2024-02-17,North,25-34,Female,Bachelor,Desktop,Java,Hybrid,AI/ML,Coursera,Neutral
+R0191,2024-02-17,East,18-24,Female,High School,Desktop,Python,On-site,Cloud Computing,Coursera,Very Satisfied
+R0192,2024-02-17,South,45-54,Prefer not to say,Bachelor,Mobile,Java,On-site,Cloud Computing,Coursera,Satisfied
+R0193,2024-02-18,West,18-24,Female,Bachelor,Desktop,Python,Hybrid,Cloud Computing,Udemy,Very Satisfied
+R0194,2024-02-18,East,35-44,Female,Master,Desktop,Java,Remote,Data Analytics,Coursera,Very Satisfied
+R0195,2024-02-18,North,25-34,Female,Master,Desktop,Python,Hybrid,AI/ML,Coursera,Satisfied
+R0196,2024-02-18,North,25-34,Female,Master,Tablet,C++,Hybrid,Cloud Computing,Udemy,Neutral
+R0197,2024-02-19,North,25-34,Female,Bachelor,Desktop,JavaScript,Remote,Cloud Computing,Coursera,Very Satisfied
+R0198,2024-02-19,North,45-54,Male,Bachelor,Mobile,Others,Remote,Cloud Computing,LinkedIn Learning,Dissatisfied
+R0199,2024-02-19,North,45-54,Male,Bachelor,Mobile,Python,Hybrid,Cloud Computing,Coursera,Neutral
+R0200,2024-02-19,West,18-24,Female,High School,Desktop,JavaScript,On-site,AI/ML,YouTube,Satisfied
+R0201,2024-02-20,South,25-34,Female,Bachelor,Mobile,Java,Hybrid,Cybersecurity,YouTube,Satisfied
+R0202,2024-02-20,North,18-24,Female,High School,Mobile,Python,Remote,Data Analytics,YouTube,Neutral
+R0203,2024-02-20,Central,35-44,Non-binary,High School,Mobile,Python,Hybrid,Blockchain,YouTube,Neutral
+R0204,2024-02-20,North,35-44,Male,PhD,Desktop,Python,Remote,AI/ML,YouTube,Satisfied
+R0205,2024-02-21,Central,35-44,Female,High School,Desktop,Java,Remote,Cybersecurity,Udemy,Very Satisfied
+R0206,2024-02-21,East,35-44,Male,PhD,Desktop,JavaScript,Hybrid,Cloud Computing,Udemy,Satisfied
+R0207,2024-02-21,North,35-44,Female,Bachelor,Mobile,Java,Remote,AI/ML,YouTube,Satisfied
+R0208,2024-02-21,West,35-44,Male,Master,Desktop,C++,Remote,Cloud Computing,Others,Neutral
+R0209,2024-02-22,North,18-24,Male,PhD,Mobile,Python,Remote,Cybersecurity,LinkedIn Learning,Satisfied
+R0210,2024-02-22,West,55+,Male,Bachelor,Mobile,Java,Hybrid,Cybersecurity,LinkedIn Learning,Satisfied
+R0211,2024-02-22,Central,35-44,Male,Master,Desktop,Python,On-site,Data Analytics,YouTube,Very Dissatisfied
+R0212,2024-02-22,North,25-34,Male,PhD,Desktop,Python,Hybrid,Cybersecurity,YouTube,Dissatisfied
+R0213,2024-02-23,West,35-44,Prefer not to say,Bachelor,Tablet,JavaScript,Hybrid,AI/ML,LinkedIn Learning,Satisfied
+R0214,2024-02-23,North,18-24,Female,Bachelor,Desktop,C++,Remote,Cybersecurity,YouTube,Dissatisfied
+R0215,2024-02-23,West,35-44,Female,Bachelor,Mobile,Java,Hybrid,Cloud Computing,Coursera,Dissatisfied
+R0216,2024-02-23,South,18-24,Female,Master,Mobile,Python,Remote,AI/ML,Coursera,Neutral
+R0217,2024-02-24,West,35-44,Male,Master,Mobile,Others,Hybrid,AI/ML,Udemy,Satisfied
+R0218,2024-02-24,West,18-24,Male,Master,Mobile,Java,Remote,Cybersecurity,Udemy,Satisfied
+R0219,2024-02-24,South,25-34,Male,Bachelor,Desktop,Others,On-site,Cybersecurity,LinkedIn Learning,Neutral
+R0220,2024-02-24,South,55+,Female,Bachelor,Mobile,JavaScript,Hybrid,Data Analytics,Udemy,Satisfied
+R0221,2024-02-25,Central,18-24,Male,High School,Desktop,C++,Remote,Data Analytics,YouTube,Dissatisfied
+R0222,2024-02-25,West,45-54,Male,PhD,Desktop,Python,On-site,AI/ML,LinkedIn Learning,Very Satisfied
+R0223,2024-02-25,West,35-44,Male,Bachelor,Mobile,Python,Remote,Cloud Computing,YouTube,Satisfied
+R0224,2024-02-25,West,18-24,Female,Master,Desktop,JavaScript,On-site,AI/ML,YouTube,Satisfied
+R0225,2024-02-26,West,18-24,Female,PhD,Desktop,JavaScript,Remote,Data Analytics,Udemy,Very Satisfied
+R0226,2024-02-26,North,55+,Female,Master,Desktop,JavaScript,Hybrid,Cloud Computing,Coursera,Satisfied
+R0227,2024-02-26,West,35-44,Female,Bachelor,Desktop,JavaScript,Hybrid,Cybersecurity,YouTube,Satisfied
+R0228,2024-02-26,North,25-34,Female,Master,Tablet,JavaScript,Hybrid,Cloud Computing,Udemy,Very Satisfied
+R0229,2024-02-27,South,25-34,Male,High School,Mobile,Python,On-site,AI/ML,Coursera,Very Satisfied
+R0230,2024-02-27,West,25-34,Male,Bachelor,Mobile,Python,Remote,AI/ML,YouTube,Satisfied
+R0231,2024-02-27,West,35-44,Female,Bachelor,Tablet,Python,Remote,Cybersecurity,YouTube,Satisfied
+R0232,2024-02-27,East,45-54,Female,Master,Tablet,Python,Remote,Cloud Computing,Coursera,Satisfied
+R0233,2024-02-28,Central,45-54,Female,Bachelor,Desktop,Others,On-site,AI/ML,Udemy,Very Satisfied
+R0234,2024-02-28,South,18-24,Female,Master,Mobile,Python,Hybrid,Cloud Computing,YouTube,Satisfied
+R0235,2024-02-28,West,18-24,Male,Bachelor,Tablet,JavaScript,Hybrid,Cloud Computing,Udemy,Very Satisfied
+R0236,2024-02-28,West,55+,Female,Master,Desktop,Python,On-site,AI/ML,Coursera,Very Satisfied
+R0237,2024-02-29,North,25-34,Male,Bachelor,Desktop,Python,Remote,Cloud Computing,Coursera,Neutral
+R0238,2024-02-29,West,45-54,Female,Bachelor,Desktop,Python,Remote,Cybersecurity,Coursera,Neutral
+R0239,2024-02-29,Central,45-54,Female,Bachelor,Mobile,JavaScript,Remote,Cybersecurity,Udemy,Neutral
+R0240,2024-02-29,South,18-24,Male,High School,Desktop,Python,Remote,AI/ML,Udemy,Neutral
+R0241,2024-03-01,South,18-24,Male,Bachelor,Desktop,JavaScript,Remote,AI/ML,Others,Satisfied
+R0242,2024-03-01,West,18-24,Female,High School,Mobile,Others,Hybrid,AI/ML,YouTube,Satisfied
+R0243,2024-03-01,North,18-24,Female,Bachelor,Mobile,C++,Remote,Blockchain,Coursera,Dissatisfied
+R0244,2024-03-01,West,45-54,Prefer not to say,Bachelor,Tablet,Python,Hybrid,AI/ML,Udemy,Very Satisfied
+R0245,2024-03-02,East,35-44,Female,Master,Mobile,Python,Remote,AI/ML,YouTube,Satisfied
+R0246,2024-03-02,South,55+,Female,Bachelor,Desktop,Python,Hybrid,Cybersecurity,Coursera,Satisfied
+R0247,2024-03-02,Central,55+,Female,Bachelor,Desktop,Python,Hybrid,AI/ML,Coursera,Satisfied
+R0248,2024-03-02,South,55+,Female,Master,Mobile,C++,Remote,Cybersecurity,YouTube,Neutral
+R0249,2024-03-03,South,45-54,Non-binary,High School,Mobile,Others,Hybrid,Data Analytics,Udemy,Satisfied
+R0250,2024-03-03,South,25-34,Female,Bachelor,Mobile,JavaScript,Hybrid,Data Analytics,Others,Satisfied
+R0251,2024-03-03,Central,45-54,Female,PhD,Mobile,Python,On-site,Cloud Computing,LinkedIn Learning,Dissatisfied
+R0252,2024-03-03,North,55+,Male,Bachelor,Desktop,C++,Remote,Cloud Computing,Udemy,Neutral
+R0253,2024-03-04,West,18-24,Male,Bachelor,Desktop,Python,Remote,Blockchain,YouTube,Very Dissatisfied
+R0254,2024-03-04,West,45-54,Male,High School,Desktop,Java,Hybrid,AI/ML,Udemy,Neutral
+R0255,2024-03-04,West,45-54,Female,Master,Mobile,JavaScript,Remote,Cloud Computing,Coursera,Very Satisfied
+R0256,2024-03-04,South,18-24,Female,PhD,Mobile,Others,Hybrid,AI/ML,YouTube,Satisfied
+R0257,2024-03-05,West,45-54,Male,High School,Mobile,Python,Remote,AI/ML,LinkedIn Learning,Dissatisfied
+R0258,2024-03-05,South,55+,Male,Bachelor,Mobile,JavaScript,On-site,Cybersecurity,Coursera,Neutral
+R0259,2024-03-05,North,55+,Female,Bachelor,Desktop,JavaScript,Remote,Cybersecurity,YouTube,Neutral
+R0260,2024-03-05,Central,45-54,Female,Bachelor,Mobile,Java,Remote,Cloud Computing,YouTube,Very Satisfied
+R0261,2024-03-06,West,18-24,Female,Bachelor,Mobile,JavaScript,Remote,AI/ML,Udemy,Very Satisfied
+R0262,2024-03-06,Central,18-24,Male,Master,Mobile,Python,Remote,AI/ML,LinkedIn Learning,Satisfied
+R0263,2024-03-06,West,55+,Male,PhD,Mobile,Others,Remote,Cybersecurity,Coursera,Satisfied
+R0264,2024-03-06,West,45-54,Male,High School,Desktop,JavaScript,On-site,Cybersecurity,Others,Neutral
+R0265,2024-03-07,South,18-24,Female,Master,Mobile,Python,On-site,Cloud Computing,Coursera,Satisfied
+R0266,2024-03-07,North,25-34,Male,High School,Desktop,Python,On-site,Data Analytics,YouTube,Neutral
+R0267,2024-03-07,East,55+,Male,Master,Desktop,Python,Remote,Cybersecurity,Udemy,Satisfied
+R0268,2024-03-07,West,25-34,Female,High School,Desktop,Python,Remote,AI/ML,YouTube,Satisfied
+R0269,2024-03-08,South,45-54,Male,Bachelor,Mobile,Python,Remote,Cloud Computing,Coursera,Satisfied
+R0270,2024-03-08,East,35-44,Male,Bachelor,Tablet,JavaScript,Hybrid,AI/ML,LinkedIn Learning,Neutral
+R0271,2024-03-08,East,55+,Male,High School,Desktop,Java,Remote,AI/ML,YouTube,Satisfied
+R0272,2024-03-08,West,35-44,Male,Bachelor,Mobile,Python,Hybrid,Blockchain,LinkedIn Learning,Very Satisfied
+R0273,2024-03-09,Central,45-54,Female,Bachelor,Mobile,Python,Remote,AI/ML,YouTube,Satisfied
+R0274,2024-03-09,West,25-34,Male,PhD,Tablet,Java,On-site,Cloud Computing,Others,Very Satisfied
+R0275,2024-03-09,South,25-34,Male,High School,Desktop,Java,Hybrid,AI/ML,LinkedIn Learning,Neutral
+R0276,2024-03-09,South,35-44,Male,Bachelor,Tablet,Python,Hybrid,Data Analytics,Udemy,Very Satisfied
+R0277,2024-03-10,North,18-24,Female,Bachelor,Mobile,Others,Hybrid,AI/ML,Coursera,Neutral
+R0278,2024-03-10,North,25-34,Female,Bachelor,Mobile,Python,Remote,AI/ML,Coursera,Very Satisfied
+R0279,2024-03-10,North,45-54,Prefer not to say,Master,Desktop,Python,On-site,AI/ML,Others,Very Dissatisfied
+R0280,2024-03-10,West,55+,Female,Bachelor,Mobile,JavaScript,Remote,Cybersecurity,Others,Very Satisfied
+R0281,2024-03-11,West,55+,Non-binary,PhD,Mobile,Others,Hybrid,AI/ML,Coursera,Neutral
+R0282,2024-03-11,South,35-44,Female,High School,Desktop,Java,Hybrid,AI/ML,YouTube,Satisfied
+R0283,2024-03-11,Central,25-34,Female,Bachelor,Mobile,C++,Hybrid,AI/ML,Coursera,Very Satisfied
+R0284,2024-03-11,East,35-44,Male,Bachelor,Mobile,C++,On-site,AI/ML,LinkedIn Learning,Satisfied
+R0285,2024-03-12,South,45-54,Female,PhD,Desktop,Python,Hybrid,AI/ML,Udemy,Satisfied
+R0286,2024-03-12,West,25-34,Male,PhD,Mobile,JavaScript,Remote,AI/ML,YouTube,Very Satisfied
+R0287,2024-03-12,Central,25-34,Non-binary,Bachelor,Mobile,JavaScript,Hybrid,Cybersecurity,YouTube,Satisfied
+R0288,2024-03-12,Central,55+,Female,Bachelor,Desktop,Python,Hybrid,AI/ML,Udemy,Very Satisfied
+R0289,2024-03-13,South,45-54,Male,High School,Mobile,Others,Hybrid,Cloud Computing,LinkedIn Learning,Dissatisfied
+R0290,2024-03-13,South,35-44,Female,Master,Mobile,C++,Hybrid,AI/ML,Coursera,Very Satisfied
+R0291,2024-03-13,North,45-54,Male,Bachelor,Mobile,Python,On-site,AI/ML,Coursera,Satisfied
+R0292,2024-03-13,South,18-24,Female,PhD,Mobile,JavaScript,Hybrid,Data Analytics,Coursera,Satisfied
+R0293,2024-03-14,South,45-54,Female,High School,Mobile,C++,On-site,Blockchain,Udemy,Satisfied
+R0294,2024-03-14,East,35-44,Male,Bachelor,Desktop,Python,Hybrid,Cloud Computing,Others,Very Satisfied
+R0295,2024-03-14,South,35-44,Male,Master,Desktop,Python,Hybrid,Cloud Computing,Coursera,Dissatisfied
+R0296,2024-03-14,Central,35-44,Female,Bachelor,Tablet,JavaScript,Hybrid,Data Analytics,YouTube,Neutral
+R0297,2024-03-15,North,25-34,Male,PhD,Desktop,JavaScript,Hybrid,Cloud Computing,Others,Satisfied
+R0298,2024-03-15,South,18-24,Female,Master,Mobile,Python,On-site,AI/ML,Udemy,Very Dissatisfied
+R0299,2024-03-15,East,25-34,Female,Master,Mobile,Others,Remote,Cloud Computing,Udemy,Dissatisfied
+R0300,2024-03-15,North,45-54,Female,Bachelor,Mobile,C++,Remote,AI/ML,YouTube,Dissatisfied
+R0301,2024-03-16,West,45-54,Male,Master,Desktop,Java,On-site,AI/ML,Udemy,Very Satisfied
+R0302,2024-03-16,East,25-34,Male,Bachelor,Desktop,Python,Hybrid,Cloud Computing,YouTube,Neutral
+R0303,2024-03-16,South,25-34,Female,Bachelor,Mobile,Python,On-site,Cybersecurity,Udemy,Neutral
+R0304,2024-03-16,North,25-34,Female,High School,Mobile,Python,Hybrid,Blockchain,YouTube,Satisfied
+R0305,2024-03-17,North,55+,Male,Bachelor,Desktop,JavaScript,Hybrid,AI/ML,Coursera,Satisfied
+R0306,2024-03-17,North,35-44,Male,Bachelor,Desktop,Others,Hybrid,AI/ML,YouTube,Very Dissatisfied
+R0307,2024-03-17,South,18-24,Female,Master,Desktop,Python,Remote,Blockchain,YouTube,Neutral
+R0308,2024-03-17,West,35-44,Male,Bachelor,Desktop,C++,On-site,AI/ML,YouTube,Dissatisfied
+R0309,2024-03-18,West,55+,Male,Bachelor,Desktop,JavaScript,Hybrid,AI/ML,Udemy,Satisfied
+R0310,2024-03-18,East,55+,Male,Master,Mobile,JavaScript,On-site,AI/ML,YouTube,Satisfied
+R0311,2024-03-18,North,45-54,Female,Bachelor,Mobile,Python,Hybrid,AI/ML,Udemy,Neutral
+R0312,2024-03-18,West,25-34,Female,High School,Mobile,C++,Hybrid,AI/ML,YouTube,Very Satisfied
+R0313,2024-03-19,South,25-34,Male,Bachelor,Desktop,JavaScript,Hybrid,AI/ML,Others,Dissatisfied
+R0314,2024-03-19,West,45-54,Non-binary,Bachelor,Mobile,JavaScript,Hybrid,Cybersecurity,Coursera,Very Satisfied
+R0315,2024-03-19,South,55+,Female,Bachelor,Mobile,Python,On-site,Cybersecurity,LinkedIn Learning,Satisfied
+R0316,2024-03-19,West,25-34,Female,Bachelor,Mobile,JavaScript,On-site,AI/ML,LinkedIn Learning,Satisfied
+R0317,2024-03-20,East,18-24,Male,Bachelor,Mobile,JavaScript,On-site,AI/ML,LinkedIn Learning,Satisfied
+R0318,2024-03-20,West,25-34,Male,High School,Mobile,Python,Hybrid,Data Analytics,LinkedIn Learning,Neutral
+R0319,2024-03-20,North,25-34,Male,Bachelor,Mobile,JavaScript,Remote,Cloud Computing,LinkedIn Learning,Neutral
+R0320,2024-03-20,South,55+,Non-binary,Bachelor,Mobile,JavaScript,On-site,Data Analytics,YouTube,Satisfied
+R0321,2024-03-21,East,35-44,Male,Master,Desktop,Java,On-site,Cybersecurity,Coursera,Neutral
+R0322,2024-03-21,North,35-44,Male,Master,Mobile,Python,Remote,AI/ML,Udemy,Neutral
+R0323,2024-03-21,East,18-24,Male,High School,Mobile,C++,Remote,Cloud Computing,YouTube,Satisfied
+R0324,2024-03-21,East,35-44,Male,High School,Mobile,Python,Remote,Blockchain,Udemy,Satisfied
+R0325,2024-03-22,South,25-34,Female,Master,Desktop,Python,Hybrid,Cloud Computing,LinkedIn Learning,Neutral
+R0326,2024-03-22,East,18-24,Female,High School,Mobile,Python,Hybrid,AI/ML,Coursera,Dissatisfied
+R0327,2024-03-22,North,35-44,Male,High School,Desktop,Python,Hybrid,Cloud Computing,Udemy,Neutral
+R0328,2024-03-22,South,18-24,Female,Bachelor,Desktop,Java,On-site,Cloud Computing,Coursera,Neutral
+R0329,2024-03-23,East,18-24,Female,PhD,Mobile,Python,Hybrid,Data Analytics,Others,Very Satisfied
+R0330,2024-03-23,North,45-54,Male,Bachelor,Tablet,Python,Hybrid,AI/ML,Coursera,Neutral
+R0331,2024-03-23,East,55+,Female,Bachelor,Mobile,Python,Remote,AI/ML,Coursera,Satisfied
+R0332,2024-03-23,West,35-44,Female,High School,Mobile,JavaScript,Hybrid,AI/ML,LinkedIn Learning,Neutral
+R0333,2024-03-24,East,18-24,Female,Bachelor,Desktop,Java,On-site,Cloud Computing,YouTube,Neutral
+R0334,2024-03-24,West,45-54,Male,High School,Desktop,Java,On-site,Cybersecurity,Udemy,Neutral
+R0335,2024-03-24,Central,35-44,Female,High School,Mobile,Java,Remote,AI/ML,Coursera,Satisfied
+R0336,2024-03-24,North,25-34,Female,Bachelor,Mobile,Python,Hybrid,Cloud Computing,LinkedIn Learning,Neutral
+R0337,2024-03-25,West,25-34,Female,Bachelor,Tablet,JavaScript,Remote,AI/ML,YouTube,Neutral
+R0338,2024-03-25,North,35-44,Male,Master,Desktop,Java,Hybrid,AI/ML,YouTube,Neutral
+R0339,2024-03-25,South,25-34,Male,Bachelor,Mobile,C++,Remote,Cloud Computing,YouTube,Neutral
+R0340,2024-03-25,South,55+,Female,Bachelor,Tablet,Others,On-site,Data Analytics,YouTube,Neutral
+R0341,2024-03-26,North,18-24,Prefer not to say,Bachelor,Desktop,Java,On-site,Blockchain,YouTube,Very Satisfied
+R0342,2024-03-26,South,18-24,Male,Bachelor,Desktop,JavaScript,Remote,Cybersecurity,YouTube,Very Satisfied
+R0343,2024-03-26,West,35-44,Female,High School,Desktop,JavaScript,Hybrid,Cybersecurity,LinkedIn Learning,Neutral
+R0344,2024-03-26,East,55+,Female,Bachelor,Desktop,Python,Remote,Cloud Computing,Others,Dissatisfied
+R0345,2024-03-27,South,35-44,Male,PhD,Tablet,JavaScript,On-site,Cybersecurity,Udemy,Very Satisfied
+R0346,2024-03-27,East,35-44,Female,Bachelor,Tablet,Python,Hybrid,Cybersecurity,Udemy,Neutral
+R0347,2024-03-27,South,18-24,Female,Bachelor,Mobile,Java,Hybrid,Cybersecurity,LinkedIn Learning,Very Satisfied
+R0348,2024-03-27,North,45-54,Female,Master,Desktop,Java,On-site,Cloud Computing,Coursera,Satisfied
+R0349,2024-03-28,North,35-44,Male,PhD,Desktop,JavaScript,Remote,AI/ML,YouTube,Satisfied
+R0350,2024-03-28,North,35-44,Female,PhD,Desktop,Python,On-site,Data Analytics,YouTube,Neutral
+R0351,2024-03-28,South,45-54,Prefer not to say,High School,Desktop,JavaScript,On-site,Cloud Computing,LinkedIn Learning,Very Satisfied
+R0352,2024-03-28,South,18-24,Prefer not to say,Master,Desktop,Others,Remote,Cloud Computing,YouTube,Very Satisfied
+R0353,2024-03-29,South,25-34,Male,High School,Mobile,Python,On-site,Cybersecurity,Others,Satisfied
+R0354,2024-03-29,South,45-54,Male,Bachelor,Mobile,Python,Remote,Cloud Computing,Udemy,Very Satisfied
+R0355,2024-03-29,North,45-54,Male,Bachelor,Desktop,Python,Remote,Cloud Computing,Coursera,Satisfied
+R0356,2024-03-29,West,18-24,Female,Bachelor,Mobile,JavaScript,Remote,Cloud Computing,YouTube,Satisfied
+R0357,2024-03-30,South,45-54,Male,Bachelor,Mobile,Java,Hybrid,Cybersecurity,LinkedIn Learning,Dissatisfied
+R0358,2024-03-30,South,35-44,Female,PhD,Desktop,Python,Remote,Cloud Computing,Udemy,Satisfied
+R0359,2024-03-30,East,45-54,Male,Master,Mobile,Python,Hybrid,Cybersecurity,YouTube,Very Satisfied
+R0360,2024-03-30,Central,18-24,Female,Bachelor,Mobile,JavaScript,Remote,Cloud Computing,Coursera,Neutral
+R0361,2024-03-31,North,35-44,Male,Bachelor,Mobile,Python,On-site,AI/ML,Others,Very Dissatisfied
+R0362,2024-03-31,East,18-24,Male,Master,Mobile,Python,Hybrid,Data Analytics,LinkedIn Learning,Very Satisfied
+R0363,2024-03-31,West,25-34,Male,Master,Mobile,Python,Remote,Data Analytics,LinkedIn Learning,Neutral
+R0364,2024-03-31,West,18-24,Male,Bachelor,Mobile,JavaScript,On-site,AI/ML,YouTube,Very Satisfied
+R0365,2024-04-01,South,55+,Male,Bachelor,Desktop,Python,Hybrid,Cloud Computing,Udemy,Very Dissatisfied
+R0366,2024-04-01,West,25-34,Female,High School,Mobile,Python,Remote,Cloud Computing,Udemy,Dissatisfied
+R0367,2024-04-01,East,35-44,Male,High School,Desktop,Python,On-site,AI/ML,YouTube,Satisfied
+R0368,2024-04-01,South,18-24,Female,High School,Desktop,Python,Remote,Cloud Computing,LinkedIn Learning,Satisfied
+R0369,2024-04-02,West,18-24,Female,Bachelor,Desktop,JavaScript,On-site,Cloud Computing,YouTube,Very Satisfied
+R0370,2024-04-02,Central,35-44,Female,Bachelor,Mobile,Python,On-site,Cybersecurity,Others,Satisfied
+R0371,2024-04-02,West,35-44,Male,Master,Tablet,C++,Hybrid,AI/ML,YouTube,Very Dissatisfied
+R0372,2024-04-02,North,45-54,Female,Master,Tablet,Python,Remote,AI/ML,Coursera,Satisfied
+R0373,2024-04-03,South,45-54,Non-binary,High School,Mobile,C++,Remote,AI/ML,YouTube,Neutral
+R0374,2024-04-03,North,55+,Male,Bachelor,Mobile,Python,Hybrid,Cybersecurity,Udemy,Neutral
+R0375,2024-04-03,Central,45-54,Female,High School,Mobile,Python,Hybrid,Cloud Computing,Coursera,Dissatisfied
+R0376,2024-04-03,Central,55+,Male,Master,Mobile,Python,Remote,AI/ML,Coursera,Dissatisfied
+R0377,2024-04-04,North,45-54,Female,Bachelor,Mobile,Python,Hybrid,Cloud Computing,YouTube,Very Satisfied
+R0378,2024-04-04,East,55+,Male,Master,Desktop,Others,On-site,Cloud Computing,Udemy,Dissatisfied
+R0379,2024-04-04,South,25-34,Male,Master,Desktop,Python,Hybrid,Cloud Computing,YouTube,Very Dissatisfied
+R0380,2024-04-04,North,18-24,Female,Master,Mobile,JavaScript,Hybrid,AI/ML,YouTube,Satisfied
+R0381,2024-04-05,South,55+,Female,PhD,Mobile,Others,Hybrid,AI/ML,YouTube,Very Satisfied
+R0382,2024-04-05,West,25-34,Male,Master,Mobile,JavaScript,Remote,Data Analytics,LinkedIn Learning,Satisfied
+R0383,2024-04-05,South,25-34,Female,Bachelor,Mobile,Python,Hybrid,Cloud Computing,LinkedIn Learning,Satisfied
+R0384,2024-04-05,South,45-54,Female,Bachelor,Mobile,Python,On-site,AI/ML,Others,Neutral
+R0385,2024-04-06,East,18-24,Male,Bachelor,Mobile,JavaScript,On-site,Cloud Computing,Udemy,Very Satisfied
+R0386,2024-04-06,South,18-24,Female,PhD,Desktop,Python,Remote,Cloud Computing,Coursera,Dissatisfied
+R0387,2024-04-06,West,35-44,Male,Bachelor,Mobile,Python,Hybrid,Cybersecurity,Udemy,Very Satisfied
+R0388,2024-04-06,South,18-24,Male,Master,Mobile,Python,Remote,Data Analytics,Udemy,Satisfied
+R0389,2024-04-07,East,45-54,Non-binary,Bachelor,Desktop,Others,On-site,Cybersecurity,Udemy,Satisfied
+R0390,2024-04-07,West,35-44,Female,Bachelor,Desktop,Java,Remote,Data Analytics,Udemy,Dissatisfied
+R0391,2024-04-07,East,25-34,Female,Bachelor,Desktop,JavaScript,Hybrid,AI/ML,Udemy,Satisfied
+R0392,2024-04-07,North,25-34,Male,PhD,Tablet,Python,Hybrid,AI/ML,Udemy,Neutral
+R0393,2024-04-08,Central,25-34,Female,Bachelor,Tablet,Python,Hybrid,Cybersecurity,Udemy,Very Satisfied
+R0394,2024-04-08,Central,18-24,Female,Bachelor,Mobile,JavaScript,Hybrid,AI/ML,YouTube,Satisfied
+R0395,2024-04-08,West,55+,Male,Bachelor,Mobile,Python,Hybrid,Cybersecurity,YouTube,Satisfied
+R0396,2024-04-08,North,45-54,Prefer not to say,High School,Mobile,C++,On-site,Cloud Computing,YouTube,Very Satisfied
+R0397,2024-04-09,East,25-34,Male,Bachelor,Mobile,Java,Remote,AI/ML,Udemy,Satisfied
+R0398,2024-04-09,Central,35-44,Male,Master,Mobile,C++,Remote,Cloud Computing,YouTube,Satisfied
+R0399,2024-04-09,Central,45-54,Male,Bachelor,Desktop,Others,Remote,Cloud Computing,Coursera,Dissatisfied
+R0400,2024-04-09,North,25-34,Female,High School,Mobile,Python,Remote,Cloud Computing,Coursera,Very Satisfied
+R0401,2024-04-10,East,45-54,Female,High School,Mobile,Python,Remote,Cloud Computing,Udemy,Very Satisfied
+R0402,2024-04-10,North,25-34,Female,High School,Desktop,Python,On-site,Data Analytics,YouTube,Satisfied
+R0403,2024-04-10,South,25-34,Female,Master,Desktop,Java,Hybrid,AI/ML,Udemy,Satisfied
+R0404,2024-04-10,West,25-34,Male,PhD,Mobile,Others,On-site,Cybersecurity,Udemy,Neutral
+R0405,2024-04-11,Central,25-34,Male,Master,Mobile,Python,Remote,Cloud Computing,LinkedIn Learning,Very Satisfied
+R0406,2024-04-11,Central,35-44,Female,Bachelor,Desktop,Python,On-site,AI/ML,LinkedIn Learning,Very Dissatisfied
+R0407,2024-04-11,South,25-34,Female,Bachelor,Desktop,Python,Remote,Blockchain,Udemy,Dissatisfied
+R0408,2024-04-11,South,35-44,Female,Master,Desktop,JavaScript,Hybrid,AI/ML,LinkedIn Learning,Satisfied
+R0409,2024-04-12,West,25-34,Female,Master,Mobile,Python,Remote,Cybersecurity,LinkedIn Learning,Very Satisfied
+R0410,2024-04-12,West,25-34,Male,PhD,Mobile,Python,Remote,AI/ML,YouTube,Very Satisfied
+R0411,2024-04-12,West,25-34,Female,High School,Mobile,JavaScript,On-site,AI/ML,LinkedIn Learning,Neutral
+R0412,2024-04-12,East,35-44,Male,High School,Desktop,Python,On-site,Cloud Computing,YouTube,Neutral
+R0413,2024-04-13,South,35-44,Female,PhD,Desktop,JavaScript,Hybrid,Data Analytics,YouTube,Very Satisfied
+R0414,2024-04-13,South,25-34,Female,Master,Desktop,Python,Hybrid,AI/ML,Udemy,Satisfied
+R0415,2024-04-13,South,18-24,Male,Master,Tablet,JavaScript,Remote,Cloud Computing,Udemy,Neutral
+R0416,2024-04-13,North,18-24,Female,Bachelor,Mobile,Python,Hybrid,Data Analytics,Others,Satisfied
+R0417,2024-04-14,East,18-24,Female,Bachelor,Desktop,Python,Remote,AI/ML,Coursera,Very Satisfied
+R0418,2024-04-14,North,55+,Male,Bachelor,Desktop,Others,Hybrid,Data Analytics,Coursera,Satisfied
+R0419,2024-04-14,South,35-44,Female,Bachelor,Mobile,JavaScript,Remote,Cloud Computing,Udemy,Neutral
+R0420,2024-04-14,West,45-54,Female,Master,Desktop,Python,Remote,AI/ML,Coursera,Neutral
+R0421,2024-04-15,Central,18-24,Male,PhD,Mobile,Python,Hybrid,Cloud Computing,YouTube,Very Satisfied
+R0422,2024-04-15,North,35-44,Female,Bachelor,Desktop,Java,Remote,Cloud Computing,Udemy,Satisfied
+R0423,2024-04-15,South,35-44,Female,Master,Desktop,Java,Remote,Cybersecurity,Coursera,Very Satisfied
+R0424,2024-04-15,West,35-44,Male,PhD,Mobile,Python,Remote,Cybersecurity,Udemy,Satisfied
+R0425,2024-04-16,West,25-34,Female,Bachelor,Mobile,Others,Remote,AI/ML,Udemy,Very Dissatisfied
+R0426,2024-04-16,South,18-24,Male,Bachelor,Mobile,JavaScript,On-site,Cloud Computing,Coursera,Satisfied
+R0427,2024-04-16,North,55+,Male,Bachelor,Desktop,Python,Hybrid,AI/ML,LinkedIn Learning,Dissatisfied
+R0428,2024-04-16,West,55+,Male,Bachelor,Desktop,JavaScript,Hybrid,AI/ML,YouTube,Satisfied
+R0429,2024-04-17,North,45-54,Male,High School,Desktop,JavaScript,On-site,Cloud Computing,Coursera,Neutral
+R0430,2024-04-17,East,18-24,Female,PhD,Mobile,Python,Remote,AI/ML,Coursera,Neutral
+R0431,2024-04-17,North,55+,Female,Bachelor,Desktop,Python,Hybrid,Cybersecurity,LinkedIn Learning,Neutral
+R0432,2024-04-17,South,55+,Male,Master,Tablet,Python,Hybrid,AI/ML,Coursera,Satisfied
+R0433,2024-04-18,East,55+,Female,Bachelor,Desktop,Others,Remote,Blockchain,YouTube,Neutral
+R0434,2024-04-18,South,18-24,Male,Master,Mobile,Python,Hybrid,Data Analytics,Coursera,Very Satisfied
+R0435,2024-04-18,East,18-24,Female,Master,Desktop,Python,On-site,Cloud Computing,LinkedIn Learning,Neutral
+R0436,2024-04-18,West,35-44,Male,PhD,Mobile,JavaScript,Remote,Cybersecurity,Udemy,Very Satisfied
+R0437,2024-04-19,North,35-44,Female,Bachelor,Mobile,JavaScript,Remote,Cloud Computing,YouTube,Very Satisfied
+R0438,2024-04-19,North,25-34,Male,Bachelor,Mobile,Python,Hybrid,Data Analytics,YouTube,Satisfied
+R0439,2024-04-19,North,18-24,Female,Bachelor,Desktop,JavaScript,On-site,AI/ML,YouTube,Very Satisfied
+R0440,2024-04-19,North,35-44,Female,High School,Tablet,Java,Remote,AI/ML,YouTube,Very Satisfied
+R0441,2024-04-20,North,35-44,Male,Bachelor,Tablet,JavaScript,On-site,AI/ML,Coursera,Satisfied
+R0442,2024-04-20,North,18-24,Female,Master,Mobile,Python,Hybrid,AI/ML,Coursera,Very Satisfied
+R0443,2024-04-20,North,55+,Female,Master,Mobile,Python,Remote,AI/ML,YouTube,Neutral
+R0444,2024-04-20,West,35-44,Male,PhD,Mobile,Python,Remote,Cybersecurity,Others,Satisfied
+R0445,2024-04-21,Central,45-54,Male,Bachelor,Mobile,Others,Remote,Cybersecurity,Coursera,Neutral
+R0446,2024-04-21,East,35-44,Female,Master,Desktop,Python,Hybrid,AI/ML,Coursera,Satisfied
+R0447,2024-04-21,South,35-44,Prefer not to say,High School,Desktop,Python,Remote,AI/ML,Others,Dissatisfied
+R0448,2024-04-21,Central,55+,Male,Bachelor,Desktop,JavaScript,Hybrid,Cloud Computing,Udemy,Neutral
+R0449,2024-04-22,North,25-34,Female,Bachelor,Mobile,Java,Remote,Cloud Computing,LinkedIn Learning,Satisfied
+R0450,2024-04-22,South,35-44,Female,Master,Desktop,JavaScript,Hybrid,AI/ML,YouTube,Satisfied
+R0451,2024-04-22,East,35-44,Male,High School,Mobile,Python,Hybrid,AI/ML,Udemy,Dissatisfied
+R0452,2024-04-22,North,25-34,Male,Master,Desktop,Python,Hybrid,Data Analytics,YouTube,Very Satisfied
+R0453,2024-04-23,Central,35-44,Female,Bachelor,Desktop,Python,Hybrid,Data Analytics,Udemy,Very Satisfied
+R0454,2024-04-23,South,18-24,Male,Bachelor,Desktop,JavaScript,Hybrid,Cybersecurity,YouTube,Very Satisfied
+R0455,2024-04-23,North,35-44,Male,Bachelor,Mobile,Java,Remote,Cybersecurity,Udemy,Neutral
+R0456,2024-04-23,Central,18-24,Male,PhD,Mobile,JavaScript,Hybrid,Cybersecurity,Others,Very Dissatisfied
+R0457,2024-04-24,West,25-34,Female,High School,Mobile,C++,Remote,AI/ML,YouTube,Dissatisfied
+R0458,2024-04-24,East,35-44,Male,Master,Desktop,Python,Hybrid,AI/ML,Others,Neutral
+R0459,2024-04-24,Central,25-34,Female,Master,Desktop,Others,Hybrid,AI/ML,Udemy,Neutral
+R0460,2024-04-24,East,25-34,Female,Bachelor,Mobile,JavaScript,Hybrid,AI/ML,Coursera,Satisfied
+R0461,2024-04-25,North,45-54,Female,Bachelor,Desktop,C++,On-site,AI/ML,Others,Satisfied
+R0462,2024-04-25,South,18-24,Female,High School,Mobile,Python,On-site,Data Analytics,Coursera,Dissatisfied
+R0463,2024-04-25,Central,45-54,Male,Master,Tablet,JavaScript,Remote,Cloud Computing,Udemy,Satisfied
+R0464,2024-04-25,North,25-34,Female,Master,Mobile,Others,Remote,Cybersecurity,Udemy,Neutral
+R0465,2024-04-26,Central,25-34,Female,High School,Desktop,Java,Hybrid,AI/ML,LinkedIn Learning,Very Satisfied
+R0466,2024-04-26,North,45-54,Male,Master,Mobile,Python,On-site,Cloud Computing,YouTube,Neutral
+R0467,2024-04-26,East,35-44,Male,Master,Desktop,Java,Remote,Data Analytics,Udemy,Neutral
+R0468,2024-04-26,South,45-54,Female,High School,Mobile,C++,Remote,Blockchain,Udemy,Neutral
+R0469,2024-04-27,South,25-34,Non-binary,Bachelor,Desktop,Python,Remote,AI/ML,Udemy,Very Dissatisfied
+R0470,2024-04-27,South,25-34,Male,Bachelor,Mobile,C++,Hybrid,Cloud Computing,YouTube,Very Dissatisfied
+R0471,2024-04-27,South,18-24,Female,Bachelor,Mobile,Python,Hybrid,AI/ML,LinkedIn Learning,Neutral
+R0472,2024-04-27,South,25-34,Male,Master,Mobile,Python,Hybrid,Blockchain,Coursera,Dissatisfied
+R0473,2024-04-28,South,18-24,Male,Bachelor,Mobile,Python,On-site,Data Analytics,Udemy,Very Satisfied
+R0474,2024-04-28,North,18-24,Female,PhD,Mobile,Python,Hybrid,AI/ML,Coursera,Neutral
+R0475,2024-04-28,West,18-24,Male,PhD,Mobile,Python,Remote,AI/ML,Coursera,Neutral
+R0476,2024-04-28,South,25-34,Female,Bachelor,Desktop,C++,Remote,Cybersecurity,Coursera,Very Dissatisfied
+R0477,2024-04-29,East,55+,Female,Bachelor,Mobile,Others,On-site,AI/ML,Udemy,Satisfied
+R0478,2024-04-29,North,25-34,Male,Master,Mobile,Java,Remote,AI/ML,YouTube,Satisfied
+R0479,2024-04-29,North,18-24,Female,Bachelor,Mobile,Python,On-site,Data Analytics,Coursera,Satisfied
+R0480,2024-04-29,North,55+,Male,Bachelor,Mobile,Python,Remote,Cybersecurity,YouTube,Neutral
+R0481,2024-04-30,North,18-24,Female,High School,Desktop,JavaScript,Remote,Blockchain,YouTube,Dissatisfied
+R0482,2024-04-30,North,45-54,Male,Bachelor,Desktop,C++,On-site,Data Analytics,LinkedIn Learning,Very Satisfied
+R0483,2024-04-30,South,25-34,Male,Bachelor,Mobile,Python,Hybrid,AI/ML,Coursera,Satisfied
+R0484,2024-04-30,West,45-54,Female,High School,Mobile,Python,Remote,Cloud Computing,YouTube,Satisfied
+R0485,2024-05-01,Central,55+,Male,High School,Mobile,Python,On-site,AI/ML,LinkedIn Learning,Very Satisfied
+R0486,2024-05-01,Central,25-34,Female,Bachelor,Desktop,Python,Remote,Data Analytics,Others,Dissatisfied
+R0487,2024-05-01,West,45-54,Male,Bachelor,Mobile,JavaScript,Remote,AI/ML,Udemy,Neutral
+R0488,2024-05-01,South,18-24,Male,Bachelor,Mobile,JavaScript,Hybrid,Cybersecurity,Coursera,Dissatisfied
+R0489,2024-05-02,North,25-34,Female,High School,Mobile,C++,Remote,Cybersecurity,YouTube,Neutral
+R0490,2024-05-02,South,18-24,Female,Bachelor,Mobile,Python,Remote,AI/ML,YouTube,Dissatisfied
+R0491,2024-05-02,North,35-44,Male,Bachelor,Tablet,Python,On-site,AI/ML,Udemy,Satisfied
+R0492,2024-05-02,Central,35-44,Female,High School,Mobile,C++,Remote,Cloud Computing,Udemy,Satisfied
+R0493,2024-05-03,Central,45-54,Female,PhD,Mobile,Python,Hybrid,AI/ML,Udemy,Dissatisfied
+R0494,2024-05-03,East,25-34,Prefer not to say,Bachelor,Mobile,Python,On-site,Cloud Computing,LinkedIn Learning,Neutral
+R0495,2024-05-03,South,25-34,Female,Bachelor,Desktop,Others,Hybrid,Cybersecurity,LinkedIn Learning,Dissatisfied
+R0496,2024-05-03,South,18-24,Male,Master,Mobile,Java,Remote,Cybersecurity,YouTube,Neutral
+R0497,2024-05-04,East,25-34,Male,Master,Mobile,Python,On-site,Cybersecurity,Others,Satisfied
+R0498,2024-05-04,East,55+,Female,Master,Mobile,Python,Remote,AI/ML,YouTube,Very Satisfied
+R0499,2024-05-04,Central,25-34,Female,Master,Desktop,Python,Hybrid,Cybersecurity,Udemy,Neutral
+R0500,2024-05-04,Central,35-44,Male,Master,Mobile,C++,Remote,AI/ML,LinkedIn Learning,Neutral
+R0501,2024-05-05,South,25-34,Female,Bachelor,Desktop,Python,Hybrid,Data Analytics,YouTube,Satisfied
+R0502,2024-05-05,North,45-54,Female,Master,Mobile,Python,Remote,AI/ML,Udemy,Dissatisfied
+R0503,2024-05-05,West,25-34,Non-binary,Master,Tablet,JavaScript,Remote,AI/ML,Udemy,Very Satisfied
+R0504,2024-05-05,South,35-44,Female,Master,Mobile,Python,Hybrid,Blockchain,Udemy,Dissatisfied
+R0505,2024-05-06,West,35-44,Male,Master,Desktop,JavaScript,Hybrid,Cloud Computing,Coursera,Satisfied
+R0506,2024-05-06,North,45-54,Male,High School,Mobile,JavaScript,Hybrid,AI/ML,Udemy,Satisfied
+R0507,2024-05-06,Central,55+,Female,Bachelor,Desktop,Python,Hybrid,AI/ML,Others,Very Satisfied
+R0508,2024-05-06,East,45-54,Female,High School,Tablet,JavaScript,Hybrid,AI/ML,Coursera,Satisfied
+R0509,2024-05-07,North,18-24,Female,Bachelor,Mobile,Python,Hybrid,AI/ML,Udemy,Very Satisfied
+R0510,2024-05-07,North,18-24,Female,High School,Mobile,Python,On-site,AI/ML,Coursera,Very Satisfied
+R0511,2024-05-07,East,35-44,Female,Bachelor,Mobile,Python,Remote,AI/ML,LinkedIn Learning,Very Dissatisfied
+R0512,2024-05-07,Central,45-54,Female,Master,Mobile,JavaScript,Hybrid,Cloud Computing,Udemy,Satisfied
+R0513,2024-05-08,South,55+,Male,Bachelor,Tablet,JavaScript,Hybrid,AI/ML,Coursera,Dissatisfied
+R0514,2024-05-08,East,35-44,Male,High School,Tablet,Python,Hybrid,AI/ML,Udemy,Dissatisfied
+R0515,2024-05-08,East,18-24,Female,Master,Mobile,C++,Hybrid,Data Analytics,Udemy,Very Satisfied
+R0516,2024-05-08,South,25-34,Female,Master,Desktop,Python,Remote,Cybersecurity,Coursera,Satisfied
+R0517,2024-05-09,West,18-24,Male,Bachelor,Mobile,Others,Remote,AI/ML,YouTube,Neutral
+R0518,2024-05-09,East,35-44,Male,High School,Mobile,Java,On-site,AI/ML,Coursera,Dissatisfied
+R0519,2024-05-09,South,45-54,Male,PhD,Desktop,Others,Hybrid,Cloud Computing,Others,Satisfied
+R0520,2024-05-09,South,45-54,Female,PhD,Mobile,Java,Hybrid,AI/ML,Coursera,Satisfied
+R0521,2024-05-10,South,55+,Female,Master,Tablet,Python,On-site,Cloud Computing,LinkedIn Learning,Very Satisfied
+R0522,2024-05-10,Central,25-34,Male,Master,Mobile,JavaScript,Hybrid,Cybersecurity,YouTube,Very Satisfied
+R0523,2024-05-10,South,25-34,Male,Bachelor,Mobile,Python,Hybrid,Data Analytics,YouTube,Neutral
+R0524,2024-05-10,West,25-34,Female,Bachelor,Mobile,Python,Hybrid,Cybersecurity,YouTube,Satisfied
+R0525,2024-05-11,Central,25-34,Female,PhD,Desktop,JavaScript,On-site,Data Analytics,Coursera,Satisfied
+R0526,2024-05-11,South,55+,Female,High School,Desktop,JavaScript,Remote,Cloud Computing,Coursera,Dissatisfied
+R0527,2024-05-11,North,45-54,Female,High School,Tablet,Python,Remote,Cloud Computing,LinkedIn Learning,Satisfied
+R0528,2024-05-11,North,18-24,Male,Master,Mobile,Python,Remote,AI/ML,Others,Satisfied
+R0529,2024-05-12,Central,35-44,Male,PhD,Mobile,Java,On-site,AI/ML,YouTube,Neutral
+R0530,2024-05-12,South,18-24,Male,High School,Desktop,Python,Hybrid,Cybersecurity,Coursera,Very Satisfied
+R0531,2024-05-12,West,18-24,Female,PhD,Mobile,JavaScript,Hybrid,Cloud Computing,LinkedIn Learning,Dissatisfied
+R0532,2024-05-12,South,35-44,Non-binary,PhD,Mobile,JavaScript,Remote,Blockchain,YouTube,Neutral
+R0533,2024-05-13,South,25-34,Male,PhD,Mobile,JavaScript,Remote,AI/ML,Coursera,Satisfied
+R0534,2024-05-13,South,25-34,Male,Bachelor,Tablet,Others,Remote,Cloud Computing,Others,Very Satisfied
+R0535,2024-05-13,West,55+,Male,High School,Tablet,JavaScript,Remote,AI/ML,Coursera,Neutral
+R0536,2024-05-13,West,55+,Male,Bachelor,Mobile,Python,Remote,Blockchain,LinkedIn Learning,Satisfied
+R0537,2024-05-14,West,25-34,Female,Master,Mobile,Others,Hybrid,Cloud Computing,LinkedIn Learning,Very Satisfied
+R0538,2024-05-14,South,25-34,Male,Master,Mobile,Java,Hybrid,AI/ML,LinkedIn Learning,Satisfied
+R0539,2024-05-14,South,35-44,Male,High School,Desktop,JavaScript,Hybrid,Blockchain,Udemy,Dissatisfied
+R0540,2024-05-14,North,35-44,Female,Bachelor,Desktop,Python,Remote,Cloud Computing,Coursera,Dissatisfied
+R0541,2024-05-15,South,55+,Non-binary,Bachelor,Mobile,C++,On-site,Cloud Computing,Coursera,Satisfied
+R0542,2024-05-15,West,25-34,Female,High School,Mobile,Python,Remote,AI/ML,Coursera,Satisfied
+R0543,2024-05-15,North,25-34,Prefer not to say,Bachelor,Mobile,JavaScript,On-site,AI/ML,Udemy,Neutral
+R0544,2024-05-15,West,18-24,Female,High School,Desktop,Java,Remote,Data Analytics,YouTube,Dissatisfied
+R0545,2024-05-16,East,25-34,Male,PhD,Mobile,Python,Remote,Cybersecurity,Udemy,Very Satisfied
+R0546,2024-05-16,South,25-34,Male,Bachelor,Desktop,Python,Remote,Cloud Computing,Others,Very Dissatisfied
+R0547,2024-05-16,West,25-34,Male,Bachelor,Mobile,JavaScript,Hybrid,Data Analytics,LinkedIn Learning,Satisfied
+R0548,2024-05-16,West,25-34,Male,Master,Mobile,Python,Remote,Cybersecurity,LinkedIn Learning,Satisfied
+R0549,2024-05-17,West,25-34,Male,Master,Desktop,Others,Remote,Cybersecurity,Udemy,Dissatisfied
+R0550,2024-05-17,North,45-54,Female,Bachelor,Mobile,Python,Hybrid,Data Analytics,Udemy,Neutral
+R0551,2024-05-17,East,18-24,Male,Bachelor,Mobile,Python,Hybrid,AI/ML,YouTube,Satisfied
+R0552,2024-05-17,North,55+,Female,Master,Mobile,Java,On-site,Cybersecurity,YouTube,Neutral
+R0553,2024-05-18,Central,35-44,Female,Bachelor,Mobile,Python,Hybrid,AI/ML,Coursera,Satisfied
+R0554,2024-05-18,East,18-24,Female,Master,Mobile,Python,Remote,Data Analytics,Coursera,Satisfied
+R0555,2024-05-18,North,35-44,Female,Master,Desktop,Python,Remote,AI/ML,YouTube,Very Satisfied
+R0556,2024-05-18,South,25-34,Non-binary,Master,Desktop,Java,Remote,Cybersecurity,YouTube,Neutral
+R0557,2024-05-19,South,55+,Male,Bachelor,Tablet,Python,Hybrid,Cybersecurity,LinkedIn Learning,Very Dissatisfied
+R0558,2024-05-19,Central,18-24,Female,Master,Desktop,Python,Hybrid,Blockchain,Others,Satisfied
+R0559,2024-05-19,North,25-34,Female,Master,Mobile,Python,Hybrid,Cloud Computing,Others,Neutral
+R0560,2024-05-19,South,35-44,Male,PhD,Mobile,JavaScript,Remote,Cybersecurity,Udemy,Neutral
+R0561,2024-05-20,South,25-34,Male,Master,Mobile,JavaScript,On-site,Data Analytics,Coursera,Satisfied
+R0562,2024-05-20,North,35-44,Female,Bachelor,Mobile,Java,On-site,AI/ML,Udemy,Very Satisfied
+R0563,2024-05-20,North,55+,Female,Master,Mobile,Java,Hybrid,AI/ML,Udemy,Very Satisfied
+R0564,2024-05-20,West,35-44,Male,High School,Mobile,Python,Hybrid,Data Analytics,YouTube,Very Satisfied
+R0565,2024-05-21,East,45-54,Male,Bachelor,Desktop,Python,Remote,Cybersecurity,Udemy,Neutral
+R0566,2024-05-21,West,35-44,Male,Bachelor,Mobile,Python,Hybrid,Data Analytics,Others,Neutral
+R0567,2024-05-21,North,18-24,Female,Bachelor,Desktop,Java,Hybrid,Data Analytics,YouTube,Neutral
+R0568,2024-05-21,Central,25-34,Female,Bachelor,Tablet,Python,Hybrid,AI/ML,Udemy,Very Satisfied
+R0569,2024-05-22,South,35-44,Female,Bachelor,Mobile,Java,Hybrid,Data Analytics,YouTube,Neutral
+R0570,2024-05-22,South,18-24,Female,Bachelor,Desktop,Python,Hybrid,Cloud Computing,Others,Satisfied
+R0571,2024-05-22,South,25-34,Female,Bachelor,Tablet,Python,On-site,AI/ML,Udemy,Dissatisfied
+R0572,2024-05-22,North,55+,Male,PhD,Desktop,Python,Remote,AI/ML,YouTube,Very Satisfied
+R0573,2024-05-23,North,25-34,Female,High School,Mobile,JavaScript,Remote,AI/ML,YouTube,Dissatisfied
+R0574,2024-05-23,Central,25-34,Female,Bachelor,Desktop,JavaScript,Hybrid,AI/ML,YouTube,Satisfied
+R0575,2024-05-23,Central,35-44,Female,PhD,Mobile,JavaScript,Hybrid,Blockchain,Others,Neutral
+R0576,2024-05-23,South,45-54,Male,Master,Tablet,Python,Hybrid,Cloud Computing,Coursera,Satisfied
+R0577,2024-05-24,West,55+,Non-binary,High School,Desktop,Java,Remote,AI/ML,YouTube,Dissatisfied
+R0578,2024-05-24,West,45-54,Male,Master,Mobile,Python,Hybrid,AI/ML,LinkedIn Learning,Satisfied
+R0579,2024-05-24,West,25-34,Female,High School,Mobile,C++,Remote,Data Analytics,Others,Very Satisfied
+R0580,2024-05-24,South,35-44,Prefer not to say,PhD,Mobile,Java,Remote,Blockchain,Others,Very Satisfied
+R0581,2024-05-25,South,18-24,Male,Master,Mobile,Python,Remote,Blockchain,Udemy,Satisfied
+R0582,2024-05-25,North,55+,Female,Bachelor,Mobile,Python,Remote,Cloud Computing,Others,Satisfied
+R0583,2024-05-25,Central,25-34,Female,Master,Mobile,Python,Hybrid,AI/ML,Coursera,Satisfied
+R0584,2024-05-25,Central,25-34,Female,Bachelor,Desktop,JavaScript,On-site,Cloud Computing,Udemy,Neutral
+R0585,2024-05-26,South,18-24,Male,High School,Desktop,Python,Remote,Cybersecurity,Coursera,Satisfied
+R0586,2024-05-26,North,55+,Female,Master,Mobile,Java,Remote,AI/ML,YouTube,Neutral
+R0587,2024-05-26,East,35-44,Male,Bachelor,Desktop,Python,Hybrid,AI/ML,LinkedIn Learning,Neutral
+R0588,2024-05-26,North,25-34,Female,Master,Mobile,Python,On-site,Cybersecurity,Coursera,Satisfied
+R0589,2024-05-27,North,35-44,Male,PhD,Mobile,Python,Hybrid,Data Analytics,LinkedIn Learning,Satisfied
+R0590,2024-05-27,West,35-44,Female,High School,Mobile,Python,On-site,AI/ML,Others,Satisfied
+R0591,2024-05-27,West,35-44,Male,Bachelor,Mobile,JavaScript,Hybrid,Cybersecurity,YouTube,Very Satisfied
+R0592,2024-05-27,South,55+,Female,Bachelor,Mobile,Python,On-site,Cybersecurity,YouTube,Neutral
+R0593,2024-05-28,North,55+,Male,Master,Mobile,JavaScript,Hybrid,Cybersecurity,Udemy,Dissatisfied
+R0594,2024-05-28,North,25-34,Male,PhD,Mobile,Java,Hybrid,AI/ML,YouTube,Satisfied
+R0595,2024-05-28,South,25-34,Male,Master,Tablet,Python,Remote,AI/ML,Udemy,Dissatisfied
+R0596,2024-05-28,North,18-24,Female,Master,Mobile,JavaScript,Remote,Cloud Computing,LinkedIn Learning,Neutral
+R0597,2024-05-29,South,55+,Male,Master,Mobile,C++,On-site,AI/ML,Others,Dissatisfied
+R0598,2024-05-29,West,25-34,Female,Master,Mobile,Others,Remote,AI/ML,Coursera,Neutral
+R0599,2024-05-29,West,18-24,Prefer not to say,High School,Mobile,Python,Hybrid,Data Analytics,Udemy,Dissatisfied
+R0600,2024-05-29,North,35-44,Male,Bachelor,Mobile,JavaScript,Hybrid,Cybersecurity,Coursera,Very Satisfied
+R0601,2024-05-30,West,18-24,Female,Master,Mobile,Others,Hybrid,AI/ML,Udemy,Satisfied
+R0602,2024-05-30,West,45-54,Prefer not to say,Bachelor,Mobile,Java,Remote,Cloud Computing,Udemy,Very Satisfied
+R0603,2024-05-30,South,45-54,Female,High School,Mobile,Python,On-site,AI/ML,Udemy,Very Satisfied
+R0604,2024-05-30,West,25-34,Female,Bachelor,Desktop,Python,Hybrid,Data Analytics,YouTube,Dissatisfied
+R0605,2024-05-31,East,18-24,Male,High School,Desktop,Java,Remote,Cloud Computing,LinkedIn Learning,Dissatisfied
+R0606,2024-05-31,East,55+,Female,Bachelor,Desktop,JavaScript,Hybrid,Cloud Computing,LinkedIn Learning,Dissatisfied
+R0607,2024-05-31,South,25-34,Female,Bachelor,Mobile,Java,Hybrid,AI/ML,YouTube,Satisfied
+R0608,2024-05-31,Central,25-34,Male,Bachelor,Mobile,Python,Remote,Cloud Computing,Udemy,Satisfied
+R0609,2024-06-01,East,55+,Male,Bachelor,Mobile,Python,Hybrid,AI/ML,Udemy,Very Satisfied
+R0610,2024-06-01,South,45-54,Male,Bachelor,Mobile,Java,Remote,Data Analytics,YouTube,Dissatisfied
+R0611,2024-06-01,South,45-54,Male,PhD,Mobile,Python,Hybrid,AI/ML,YouTube,Dissatisfied
+R0612,2024-06-01,Central,25-34,Non-binary,Bachelor,Mobile,Java,Hybrid,Blockchain,YouTube,Neutral
+R0613,2024-06-02,North,18-24,Male,PhD,Desktop,Java,Hybrid,AI/ML,YouTube,Satisfied
+R0614,2024-06-02,South,45-54,Female,High School,Mobile,Python,Hybrid,Data Analytics,Udemy,Neutral
+R0615,2024-06-02,East,25-34,Male,Master,Desktop,Python,Hybrid,Cloud Computing,Udemy,Dissatisfied
+R0616,2024-06-02,East,35-44,Male,High School,Mobile,Python,Hybrid,Cybersecurity,YouTube,Dissatisfied
+R0617,2024-06-03,North,25-34,Male,Bachelor,Mobile,Python,Hybrid,Blockchain,YouTube,Very Satisfied
+R0618,2024-06-03,North,35-44,Male,Master,Mobile,JavaScript,Hybrid,AI/ML,YouTube,Satisfied
+R0619,2024-06-03,East,25-34,Male,PhD,Mobile,Java,Hybrid,AI/ML,YouTube,Very Satisfied
+R0620,2024-06-03,West,35-44,Female,PhD,Desktop,Python,Remote,Data Analytics,YouTube,Very Satisfied
+R0621,2024-06-04,West,25-34,Non-binary,Master,Mobile,Others,Remote,AI/ML,Coursera,Very Satisfied
+R0622,2024-06-04,East,18-24,Male,Bachelor,Desktop,Java,Remote,Cloud Computing,Coursera,Very Satisfied
+R0623,2024-06-04,West,45-54,Male,Bachelor,Mobile,JavaScript,Remote,Blockchain,LinkedIn Learning,Satisfied
+R0624,2024-06-04,East,55+,Female,High School,Mobile,C++,Hybrid,Cybersecurity,LinkedIn Learning,Dissatisfied
+R0625,2024-06-05,Central,18-24,Female,Master,Desktop,JavaScript,Remote,Cybersecurity,Udemy,Very Satisfied
+R0626,2024-06-05,East,18-24,Male,High School,Mobile,JavaScript,Hybrid,Cybersecurity,LinkedIn Learning,Very Satisfied
+R0627,2024-06-05,North,45-54,Male,PhD,Desktop,Python,On-site,AI/ML,Coursera,Neutral
+R0628,2024-06-05,South,55+,Male,Bachelor,Desktop,JavaScript,Remote,Cloud Computing,LinkedIn Learning,Very Satisfied
+R0629,2024-06-06,Central,35-44,Female,Master,Mobile,JavaScript,On-site,Cloud Computing,Others,Satisfied
+R0630,2024-06-06,North,25-34,Non-binary,Bachelor,Desktop,C++,Remote,AI/ML,Udemy,Satisfied
+R0631,2024-06-06,West,25-34,Female,Master,Mobile,Python,Remote,Cloud Computing,Coursera,Neutral
+R0632,2024-06-06,South,35-44,Female,Bachelor,Mobile,Others,Hybrid,Cloud Computing,Udemy,Very Satisfied
+R0633,2024-06-07,West,35-44,Female,Bachelor,Mobile,Python,On-site,Cloud Computing,Coursera,Very Satisfied
+R0634,2024-06-07,North,45-54,Female,Bachelor,Mobile,Java,Remote,AI/ML,Coursera,Satisfied
+R0635,2024-06-07,South,35-44,Female,Master,Mobile,Python,Remote,Blockchain,Udemy,Neutral
+R0636,2024-06-07,North,35-44,Male,Bachelor,Tablet,Others,Hybrid,Cloud Computing,Others,Neutral
+R0637,2024-06-08,North,25-34,Male,Bachelor,Mobile,JavaScript,Remote,AI/ML,Coursera,Dissatisfied
+R0638,2024-06-08,West,25-34,Non-binary,PhD,Mobile,Python,Hybrid,Data Analytics,Others,Dissatisfied
+R0639,2024-06-08,West,35-44,Male,Bachelor,Mobile,JavaScript,Hybrid,Cybersecurity,YouTube,Satisfied
+R0640,2024-06-08,North,25-34,Female,Master,Tablet,Python,Hybrid,AI/ML,Coursera,Dissatisfied
+R0641,2024-06-09,West,55+,Male,Master,Mobile,C++,Remote,AI/ML,Coursera,Dissatisfied
+R0642,2024-06-09,North,25-34,Female,Bachelor,Mobile,Python,Hybrid,Data Analytics,LinkedIn Learning,Satisfied
+R0643,2024-06-09,Central,25-34,Male,Bachelor,Mobile,Python,On-site,Cybersecurity,YouTube,Neutral
+R0644,2024-06-09,West,55+,Female,Bachelor,Desktop,JavaScript,Hybrid,AI/ML,YouTube,Satisfied
+R0645,2024-06-10,South,18-24,Female,High School,Desktop,JavaScript,On-site,Cloud Computing,YouTube,Satisfied
+R0646,2024-06-10,Central,55+,Male,Bachelor,Tablet,Python,Hybrid,Cloud Computing,YouTube,Satisfied
+R0647,2024-06-10,South,35-44,Non-binary,Bachelor,Desktop,Python,Hybrid,AI/ML,Others,Neutral
+R0648,2024-06-10,West,45-54,Female,PhD,Desktop,C++,Hybrid,AI/ML,Coursera,Very Satisfied
+R0649,2024-06-11,East,35-44,Female,High School,Mobile,JavaScript,On-site,Cloud Computing,Coursera,Neutral
+R0650,2024-06-11,West,25-34,Male,Bachelor,Tablet,Python,Remote,AI/ML,YouTube,Neutral
+R0651,2024-06-11,North,18-24,Male,High School,Mobile,Java,Hybrid,Data Analytics,LinkedIn Learning,Neutral
+R0652,2024-06-11,North,45-54,Female,Master,Mobile,Python,On-site,Cybersecurity,Others,Very Satisfied
+R0653,2024-06-12,South,25-34,Female,High School,Mobile,Others,Remote,Data Analytics,Coursera,Dissatisfied
+R0654,2024-06-12,East,55+,Non-binary,High School,Mobile,Python,Hybrid,Data Analytics,Coursera,Neutral
+R0655,2024-06-12,North,45-54,Prefer not to say,Bachelor,Mobile,Python,Hybrid,Cloud Computing,YouTube,Satisfied
+R0656,2024-06-12,South,35-44,Female,High School,Desktop,Java,Remote,AI/ML,Udemy,Very Dissatisfied
+R0657,2024-06-13,South,25-34,Male,Bachelor,Mobile,Python,Hybrid,Cloud Computing,Coursera,Satisfied
+R0658,2024-06-13,East,18-24,Male,PhD,Mobile,Java,On-site,AI/ML,Coursera,Satisfied
+R0659,2024-06-13,Central,55+,Female,High School,Desktop,Python,Hybrid,AI/ML,YouTube,Neutral
+R0660,2024-06-13,East,25-34,Male,Master,Desktop,Python,Remote,AI/ML,Others,Neutral
+R0661,2024-06-14,East,35-44,Male,Master,Mobile,Python,Remote,Cloud Computing,Others,Satisfied
+R0662,2024-06-14,Central,45-54,Male,High School,Mobile,Java,Remote,Cloud Computing,Coursera,Neutral
+R0663,2024-06-14,North,25-34,Female,Bachelor,Desktop,Python,On-site,Cybersecurity,Udemy,Neutral
+R0664,2024-06-14,South,18-24,Female,Bachelor,Desktop,Python,On-site,Cloud Computing,YouTube,Satisfied
+R0665,2024-06-15,West,45-54,Female,PhD,Mobile,Python,On-site,Data Analytics,Udemy,Dissatisfied
+R0666,2024-06-15,North,45-54,Male,High School,Mobile,Python,Remote,AI/ML,YouTube,Satisfied
+R0667,2024-06-15,East,25-34,Male,Master,Desktop,Java,Remote,Cybersecurity,YouTube,Very Satisfied
+R0668,2024-06-15,South,45-54,Male,High School,Mobile,C++,Hybrid,AI/ML,Udemy,Satisfied
+R0669,2024-06-16,West,25-34,Female,Bachelor,Desktop,Python,Remote,Cloud Computing,Udemy,Very Satisfied
+R0670,2024-06-16,West,25-34,Female,Master,Desktop,Java,Hybrid,Cloud Computing,LinkedIn Learning,Satisfied
+R0671,2024-06-16,East,45-54,Male,Bachelor,Mobile,Java,On-site,Cloud Computing,Udemy,Dissatisfied
+R0672,2024-06-16,North,25-34,Female,Master,Desktop,Python,Remote,Cloud Computing,YouTube,Satisfied
+R0673,2024-06-17,West,18-24,Female,Bachelor,Desktop,Python,Remote,AI/ML,Others,Neutral
+R0674,2024-06-17,East,25-34,Non-binary,Bachelor,Mobile,JavaScript,On-site,AI/ML,YouTube,Dissatisfied
+R0675,2024-06-17,North,18-24,Female,Master,Mobile,Others,Hybrid,AI/ML,Others,Satisfied
+R0676,2024-06-17,South,35-44,Male,High School,Mobile,JavaScript,On-site,Cloud Computing,Others,Satisfied
+R0677,2024-06-18,South,18-24,Male,Bachelor,Desktop,C++,On-site,AI/ML,LinkedIn Learning,Satisfied
+R0678,2024-06-18,North,45-54,Female,High School,Mobile,Python,Hybrid,Cloud Computing,Others,Very Satisfied
+R0679,2024-06-18,South,35-44,Female,Bachelor,Desktop,C++,On-site,Data Analytics,LinkedIn Learning,Satisfied
+R0680,2024-06-18,Central,25-34,Male,Bachelor,Mobile,Python,On-site,AI/ML,YouTube,Satisfied
+R0681,2024-06-19,North,18-24,Male,Bachelor,Mobile,Java,Hybrid,Cloud Computing,Coursera,Satisfied
+R0682,2024-06-19,West,18-24,Male,Master,Mobile,Python,Remote,Data Analytics,LinkedIn Learning,Neutral
+R0683,2024-06-19,East,35-44,Prefer not to say,PhD,Mobile,Java,Remote,AI/ML,Udemy,Satisfied
+R0684,2024-06-19,Central,18-24,Female,PhD,Tablet,Python,Remote,Cybersecurity,YouTube,Very Dissatisfied
+R0685,2024-06-20,Central,18-24,Male,High School,Tablet,Python,Hybrid,Cloud Computing,Udemy,Very Satisfied
+R0686,2024-06-20,South,55+,Female,Master,Mobile,Python,Hybrid,AI/ML,Others,Neutral
+R0687,2024-06-20,North,55+,Non-binary,High School,Mobile,Python,Hybrid,AI/ML,Udemy,Very Dissatisfied
+R0688,2024-06-20,East,18-24,Female,Bachelor,Desktop,Python,Remote,AI/ML,LinkedIn Learning,Satisfied
+R0689,2024-06-21,West,25-34,Male,Bachelor,Tablet,Others,Remote,Cloud Computing,YouTube,Satisfied
+R0690,2024-06-21,East,55+,Non-binary,Bachelor,Mobile,C++,On-site,AI/ML,Coursera,Satisfied
+R0691,2024-06-21,South,18-24,Male,Master,Mobile,Python,Remote,Data Analytics,LinkedIn Learning,Satisfied
+R0692,2024-06-21,South,55+,Male,Bachelor,Mobile,Python,Remote,Data Analytics,Udemy,Satisfied
+R0693,2024-06-22,Central,18-24,Male,Bachelor,Desktop,Python,Hybrid,Cybersecurity,Udemy,Neutral
+R0694,2024-06-22,South,18-24,Male,High School,Tablet,JavaScript,Remote,Cybersecurity,Coursera,Satisfied
+R0695,2024-06-22,West,45-54,Female,High School,Desktop,Java,Remote,AI/ML,LinkedIn Learning,Very Satisfied
+R0696,2024-06-22,West,25-34,Male,High School,Desktop,Python,Hybrid,Cybersecurity,Udemy,Very Dissatisfied
+R0697,2024-06-23,East,25-34,Non-binary,Master,Mobile,Python,On-site,Cloud Computing,Udemy,Satisfied
+R0698,2024-06-23,North,35-44,Male,Bachelor,Mobile,Python,Hybrid,Data Analytics,LinkedIn Learning,Very Satisfied
+R0699,2024-06-23,North,35-44,Non-binary,Master,Desktop,Python,Hybrid,Cloud Computing,YouTube,Very Satisfied
+R0700,2024-06-23,Central,25-34,Male,High School,Tablet,JavaScript,Hybrid,Data Analytics,Coursera,Neutral
+R0701,2024-06-24,North,18-24,Female,Master,Mobile,Python,Hybrid,AI/ML,YouTube,Very Satisfied
+R0702,2024-06-24,South,45-54,Male,High School,Mobile,C++,Remote,AI/ML,Coursera,Neutral
+R0703,2024-06-24,East,45-54,Non-binary,Master,Desktop,JavaScript,Remote,Blockchain,Coursera,Very Satisfied
+R0704,2024-06-24,West,25-34,Female,Bachelor,Mobile,Java,Remote,Cloud Computing,Coursera,Neutral
+R0705,2024-06-25,West,25-34,Female,High School,Tablet,Python,Hybrid,AI/ML,YouTube,Satisfied
+R0706,2024-06-25,Central,35-44,Non-binary,Bachelor,Mobile,Python,On-site,AI/ML,LinkedIn Learning,Dissatisfied
+R0707,2024-06-25,Central,35-44,Female,Master,Mobile,JavaScript,Remote,Cloud Computing,YouTube,Very Satisfied
+R0708,2024-06-25,South,25-34,Female,High School,Mobile,Python,Hybrid,Cybersecurity,Udemy,Neutral
+R0709,2024-06-26,South,45-54,Male,Bachelor,Desktop,Python,Hybrid,Cybersecurity,Coursera,Very Satisfied
+R0710,2024-06-26,North,55+,Female,High School,Mobile,JavaScript,On-site,AI/ML,YouTube,Dissatisfied
+R0711,2024-06-26,North,25-34,Non-binary,Master,Mobile,Python,Remote,AI/ML,LinkedIn Learning,Satisfied
+R0712,2024-06-26,West,55+,Male,High School,Mobile,C++,On-site,AI/ML,Udemy,Neutral
+R0713,2024-06-27,Central,18-24,Female,Master,Mobile,JavaScript,Remote,AI/ML,Coursera,Dissatisfied
+R0714,2024-06-27,South,25-34,Female,High School,Mobile,Java,On-site,Cybersecurity,Udemy,Very Satisfied
+R0715,2024-06-27,Central,18-24,Female,Bachelor,Tablet,Java,Hybrid,AI/ML,Coursera,Neutral
+R0716,2024-06-27,West,18-24,Prefer not to say,PhD,Mobile,Java,Hybrid,Cloud Computing,Coursera,Neutral
+R0717,2024-06-28,West,25-34,Female,Master,Desktop,Python,On-site,Cloud Computing,YouTube,Satisfied
+R0718,2024-06-28,East,55+,Male,Master,Mobile,Python,On-site,Cybersecurity,YouTube,Satisfied
+R0719,2024-06-28,South,25-34,Female,Master,Mobile,C++,Hybrid,Cloud Computing,Coursera,Neutral
+R0720,2024-06-28,East,35-44,Female,High School,Desktop,JavaScript,Remote,Cybersecurity,Others,Dissatisfied
+R0721,2024-06-29,South,18-24,Female,High School,Tablet,Python,Remote,Cloud Computing,Coursera,Neutral
+R0722,2024-06-29,East,18-24,Male,Bachelor,Mobile,JavaScript,Hybrid,Cybersecurity,Others,Dissatisfied
+R0723,2024-06-29,Central,25-34,Male,Bachelor,Desktop,Others,On-site,AI/ML,Others,Satisfied
+R0724,2024-06-29,North,25-34,Male,Bachelor,Mobile,Python,Hybrid,Data Analytics,Udemy,Satisfied
+R0725,2024-06-30,West,55+,Male,Bachelor,Mobile,Python,Hybrid,Data Analytics,YouTube,Neutral
+R0726,2024-06-30,Central,55+,Male,PhD,Mobile,JavaScript,Remote,AI/ML,Udemy,Satisfied
+R0727,2024-06-30,South,18-24,Female,High School,Desktop,Python,Remote,Cloud Computing,Coursera,Satisfied
+R0728,2024-06-30,South,55+,Female,High School,Mobile,C++,Remote,AI/ML,Udemy,Neutral
+R0729,2024-07-01,East,18-24,Male,Master,Mobile,JavaScript,Hybrid,AI/ML,Others,Dissatisfied
+R0730,2024-07-01,West,18-24,Male,Bachelor,Mobile,Others,Remote,Cloud Computing,Coursera,Neutral
+R0731,2024-07-01,North,25-34,Male,PhD,Mobile,C++,On-site,AI/ML,LinkedIn Learning,Very Satisfied
+R0732,2024-07-01,Central,35-44,Male,Bachelor,Mobile,Others,Remote,Cybersecurity,Coursera,Dissatisfied
+R0733,2024-07-02,South,35-44,Female,Master,Mobile,Python,Remote,Cybersecurity,YouTube,Neutral
+R0734,2024-07-02,North,45-54,Non-binary,Bachelor,Mobile,Python,Remote,AI/ML,Udemy,Satisfied
+R0735,2024-07-02,Central,25-34,Female,Bachelor,Mobile,Python,Hybrid,Cloud Computing,Udemy,Dissatisfied
+R0736,2024-07-02,South,18-24,Female,Bachelor,Mobile,Java,On-site,Data Analytics,YouTube,Dissatisfied
+R0737,2024-07-03,West,25-34,Female,Master,Mobile,Python,Hybrid,Cloud Computing,YouTube,Dissatisfied
+R0738,2024-07-03,West,35-44,Male,Master,Mobile,Python,Hybrid,Cloud Computing,Udemy,Very Satisfied
+R0739,2024-07-03,East,18-24,Prefer not to say,Bachelor,Desktop,Python,Remote,Blockchain,YouTube,Satisfied
+R0740,2024-07-03,West,18-24,Female,Bachelor,Mobile,Python,Remote,Data Analytics,Udemy,Satisfied
+R0741,2024-07-04,North,35-44,Female,Bachelor,Mobile,Python,Hybrid,Blockchain,YouTube,Neutral
+R0742,2024-07-04,East,25-34,Male,Master,Mobile,JavaScript,Remote,AI/ML,YouTube,Neutral
+R0743,2024-07-04,North,35-44,Male,Bachelor,Mobile,Python,Remote,AI/ML,Udemy,Neutral
+R0744,2024-07-04,South,25-34,Male,Bachelor,Mobile,C++,Remote,AI/ML,YouTube,Very Satisfied
+R0745,2024-07-05,West,18-24,Male,Master,Mobile,Java,Hybrid,AI/ML,Udemy,Very Satisfied
+R0746,2024-07-05,East,25-34,Male,Master,Desktop,Others,Hybrid,Cloud Computing,YouTube,Satisfied
+R0747,2024-07-05,East,25-34,Female,Bachelor,Mobile,Python,On-site,Cybersecurity,Udemy,Satisfied
+R0748,2024-07-05,West,18-24,Female,Bachelor,Mobile,JavaScript,Hybrid,AI/ML,LinkedIn Learning,Satisfied
+R0749,2024-07-06,South,18-24,Male,Bachelor,Mobile,JavaScript,Hybrid,Blockchain,Udemy,Neutral
+R0750,2024-07-06,North,25-34,Male,Bachelor,Desktop,Python,Remote,Data Analytics,YouTube,Neutral
+R0751,2024-07-06,East,45-54,Male,High School,Desktop,Others,Hybrid,AI/ML,Udemy,Dissatisfied
+R0752,2024-07-06,Central,55+,Male,High School,Desktop,Java,Remote,AI/ML,LinkedIn Learning,Very Satisfied
+R0753,2024-07-07,South,35-44,Female,Master,Mobile,JavaScript,Hybrid,Cloud Computing,Udemy,Satisfied
+R0754,2024-07-07,North,18-24,Male,Bachelor,Desktop,JavaScript,Hybrid,Cloud Computing,Coursera,Satisfied
+R0755,2024-07-07,North,18-24,Female,PhD,Mobile,Python,Hybrid,AI/ML,LinkedIn Learning,Neutral
+R0756,2024-07-07,Central,25-34,Female,Bachelor,Desktop,Python,Remote,Cloud Computing,Coursera,Neutral
+R0757,2024-07-08,West,35-44,Male,Master,Mobile,C++,On-site,AI/ML,LinkedIn Learning,Very Satisfied
+R0758,2024-07-08,South,35-44,Male,Master,Mobile,Python,Hybrid,Cybersecurity,Others,Neutral
+R0759,2024-07-08,West,25-34,Male,High School,Mobile,JavaScript,Hybrid,Cybersecurity,Coursera,Very Satisfied
+R0760,2024-07-08,North,45-54,Female,PhD,Mobile,Others,Remote,AI/ML,Others,Satisfied
+R0761,2024-07-09,West,18-24,Female,PhD,Mobile,JavaScript,Remote,Cybersecurity,Coursera,Very Satisfied
+R0762,2024-07-09,South,18-24,Female,Bachelor,Mobile,JavaScript,Remote,Cybersecurity,Others,Satisfied
+R0763,2024-07-09,Central,35-44,Male,Master,Mobile,JavaScript,On-site,Cloud Computing,Others,Neutral
+R0764,2024-07-09,East,35-44,Male,PhD,Desktop,Python,Remote,Cybersecurity,YouTube,Very Satisfied
+R0765,2024-07-10,East,25-34,Male,Bachelor,Mobile,JavaScript,Hybrid,AI/ML,Coursera,Neutral
+R0766,2024-07-10,North,18-24,Male,Master,Desktop,Java,Hybrid,Cybersecurity,Coursera,Neutral
+R0767,2024-07-10,North,35-44,Female,Bachelor,Mobile,Python,Hybrid,Cybersecurity,LinkedIn Learning,Satisfied
+R0768,2024-07-10,West,35-44,Female,Bachelor,Mobile,JavaScript,Hybrid,Blockchain,YouTube,Very Satisfied
+R0769,2024-07-11,Central,35-44,Female,Bachelor,Mobile,Java,Hybrid,AI/ML,Coursera,Dissatisfied
+R0770,2024-07-11,North,55+,Male,Bachelor,Tablet,JavaScript,Hybrid,Cybersecurity,Coursera,Satisfied
+R0771,2024-07-11,Central,45-54,Female,Bachelor,Mobile,Python,Hybrid,Cybersecurity,Coursera,Dissatisfied
+R0772,2024-07-11,North,25-34,Male,Bachelor,Mobile,Others,Remote,Data Analytics,Coursera,Very Dissatisfied
+R0773,2024-07-12,East,55+,Male,Master,Tablet,Python,Remote,Cloud Computing,Others,Satisfied
+R0774,2024-07-12,East,18-24,Male,Master,Mobile,JavaScript,On-site,AI/ML,Udemy,Very Satisfied
+R0775,2024-07-12,West,18-24,Female,Bachelor,Mobile,JavaScript,Remote,Cybersecurity,Coursera,Neutral
+R0776,2024-07-12,North,35-44,Male,Bachelor,Mobile,Java,Remote,Data Analytics,LinkedIn Learning,Very Satisfied
+R0777,2024-07-13,West,18-24,Male,Master,Desktop,JavaScript,Remote,Cloud Computing,YouTube,Neutral
+R0778,2024-07-13,East,45-54,Male,Bachelor,Mobile,Python,Remote,Data Analytics,LinkedIn Learning,Satisfied
+R0779,2024-07-13,East,18-24,Female,High School,Tablet,JavaScript,Remote,Data Analytics,YouTube,Neutral
+R0780,2024-07-13,East,25-34,Male,Master,Desktop,Python,On-site,AI/ML,YouTube,Satisfied
+R0781,2024-07-14,North,18-24,Prefer not to say,Bachelor,Mobile,Python,Hybrid,Data Analytics,YouTube,Very Satisfied
+R0782,2024-07-14,South,18-24,Male,Bachelor,Mobile,JavaScript,Remote,Data Analytics,Others,Satisfied
+R0783,2024-07-14,South,25-34,Male,Master,Mobile,C++,On-site,AI/ML,Udemy,Very Satisfied
+R0784,2024-07-14,North,25-34,Male,Master,Mobile,Python,Hybrid,Cybersecurity,Coursera,Dissatisfied
+R0785,2024-07-15,East,25-34,Male,Bachelor,Desktop,JavaScript,On-site,Cloud Computing,YouTube,Very Satisfied
+R0786,2024-07-15,South,35-44,Female,Bachelor,Mobile,Python,Hybrid,AI/ML,YouTube,Very Satisfied
+R0787,2024-07-15,North,18-24,Male,Master,Mobile,Others,Remote,AI/ML,Coursera,Very Satisfied
+R0788,2024-07-15,Central,18-24,Non-binary,PhD,Mobile,JavaScript,Hybrid,Cloud Computing,Udemy,Very Satisfied
+R0789,2024-07-16,North,25-34,Female,PhD,Mobile,Java,Remote,Cloud Computing,Coursera,Satisfied
+R0790,2024-07-16,North,35-44,Female,Bachelor,Mobile,Java,Hybrid,Cloud Computing,YouTube,Dissatisfied
+R0791,2024-07-16,East,25-34,Male,Master,Mobile,Others,Remote,Cybersecurity,Coursera,Satisfied
+R0792,2024-07-16,Central,25-34,Female,High School,Mobile,Python,Hybrid,AI/ML,YouTube,Satisfied
+R0793,2024-07-17,West,45-54,Male,High School,Tablet,Python,On-site,Data Analytics,LinkedIn Learning,Very Satisfied
+R0794,2024-07-17,Central,45-54,Female,Bachelor,Mobile,Python,Hybrid,Cloud Computing,Coursera,Satisfied
+R0795,2024-07-17,South,35-44,Female,High School,Mobile,Python,Hybrid,Cybersecurity,Others,Satisfied
+R0796,2024-07-17,Central,18-24,Female,High School,Desktop,JavaScript,Hybrid,Data Analytics,YouTube,Very Satisfied
+R0797,2024-07-18,Central,25-34,Male,Bachelor,Desktop,Python,Remote,AI/ML,Coursera,Dissatisfied
+R0798,2024-07-18,Central,35-44,Male,PhD,Mobile,Python,On-site,Cybersecurity,Udemy,Neutral
+R0799,2024-07-18,North,25-34,Female,Bachelor,Mobile,Java,Hybrid,Cloud Computing,LinkedIn Learning,Dissatisfied
+R0800,2024-07-18,West,25-34,Male,Bachelor,Mobile,Python,Remote,Cloud Computing,Others,Very Satisfied
+R0801,2024-07-19,West,35-44,Male,PhD,Desktop,Python,Hybrid,AI/ML,Udemy,Very Satisfied
+R0802,2024-07-19,Central,25-34,Female,Bachelor,Desktop,Java,Hybrid,Cybersecurity,Coursera,Dissatisfied
+R0803,2024-07-19,East,45-54,Female,Bachelor,Mobile,Python,On-site,AI/ML,Coursera,Neutral
+R0804,2024-07-19,South,35-44,Male,High School,Desktop,Python,Remote,Data Analytics,Coursera,Very Dissatisfied
+R0805,2024-07-20,Central,25-34,Male,Master,Mobile,Python,Hybrid,AI/ML,LinkedIn Learning,Very Satisfied
+R0806,2024-07-20,North,18-24,Prefer not to say,Master,Desktop,Python,Remote,AI/ML,Coursera,Satisfied
+R0807,2024-07-20,West,25-34,Non-binary,High School,Tablet,Python,Hybrid,AI/ML,Coursera,Neutral
+R0808,2024-07-20,East,25-34,Female,Master,Desktop,Python,Hybrid,Cloud Computing,Coursera,Satisfied
+R0809,2024-07-21,South,18-24,Male,High School,Desktop,JavaScript,On-site,Cybersecurity,YouTube,Dissatisfied
+R0810,2024-07-21,Central,25-34,Female,PhD,Mobile,C++,Remote,AI/ML,Coursera,Neutral
+R0811,2024-07-21,West,55+,Male,High School,Desktop,JavaScript,Remote,Cloud Computing,Udemy,Neutral
+R0812,2024-07-21,East,25-34,Prefer not to say,Master,Mobile,Python,Hybrid,AI/ML,YouTube,Satisfied
+R0813,2024-07-22,South,35-44,Male,Master,Mobile,Python,Remote,Data Analytics,LinkedIn Learning,Satisfied
+R0814,2024-07-22,West,35-44,Prefer not to say,Bachelor,Desktop,Python,Hybrid,Blockchain,Coursera,Satisfied
+R0815,2024-07-22,North,45-54,Female,Bachelor,Tablet,Python,Remote,Data Analytics,Coursera,Satisfied
+R0816,2024-07-22,East,45-54,Male,PhD,Desktop,Python,Hybrid,Cloud Computing,Coursera,Neutral
+R0817,2024-07-23,Central,18-24,Male,Bachelor,Mobile,Python,Remote,Cybersecurity,Coursera,Very Satisfied
+R0818,2024-07-23,West,45-54,Female,Bachelor,Desktop,Python,Remote,Cybersecurity,YouTube,Very Satisfied
+R0819,2024-07-23,North,18-24,Male,PhD,Mobile,Python,Remote,Data Analytics,Coursera,Satisfied
+R0820,2024-07-23,Central,25-34,Male,Bachelor,Mobile,Python,Hybrid,AI/ML,Udemy,Very Satisfied
+R0821,2024-07-24,North,25-34,Non-binary,Bachelor,Desktop,Python,Remote,AI/ML,Coursera,Very Satisfied
+R0822,2024-07-24,North,45-54,Male,Bachelor,Mobile,Python,Hybrid,AI/ML,YouTube,Neutral
+R0823,2024-07-24,Central,18-24,Male,PhD,Mobile,JavaScript,Remote,AI/ML,Udemy,Satisfied
+R0824,2024-07-24,North,25-34,Female,Bachelor,Mobile,JavaScript,Hybrid,Cybersecurity,Udemy,Very Satisfied
+R0825,2024-07-25,West,35-44,Male,Bachelor,Mobile,JavaScript,Remote,Cloud Computing,Others,Neutral
+R0826,2024-07-25,Central,55+,Male,Master,Mobile,C++,Remote,Blockchain,Udemy,Neutral
+R0827,2024-07-25,North,18-24,Female,High School,Desktop,Python,Hybrid,Cloud Computing,Udemy,Neutral
+R0828,2024-07-25,South,18-24,Male,Bachelor,Mobile,Java,Hybrid,Cloud Computing,Coursera,Very Satisfied
+R0829,2024-07-26,South,55+,Female,Bachelor,Desktop,C++,Hybrid,AI/ML,YouTube,Satisfied
+R0830,2024-07-26,Central,35-44,Male,High School,Desktop,C++,Hybrid,Cybersecurity,YouTube,Dissatisfied
+R0831,2024-07-26,West,25-34,Female,Bachelor,Mobile,Python,Remote,AI/ML,Coursera,Satisfied
+R0832,2024-07-26,East,25-34,Male,Master,Mobile,Python,On-site,Cybersecurity,LinkedIn Learning,Satisfied
+R0833,2024-07-27,North,35-44,Male,Bachelor,Mobile,Java,Remote,Data Analytics,LinkedIn Learning,Satisfied
+R0834,2024-07-27,West,35-44,Female,Bachelor,Desktop,Python,On-site,Cloud Computing,Coursera,Neutral
+R0835,2024-07-27,Central,35-44,Male,Bachelor,Tablet,Java,On-site,AI/ML,Coursera,Neutral
+R0836,2024-07-27,Central,18-24,Female,Bachelor,Mobile,Python,Remote,Cloud Computing,YouTube,Very Satisfied
+R0837,2024-07-28,West,18-24,Male,Bachelor,Mobile,Java,Hybrid,Cybersecurity,Udemy,Very Satisfied
+R0838,2024-07-28,North,25-34,Male,Master,Desktop,Python,Remote,AI/ML,Udemy,Satisfied
+R0839,2024-07-28,East,18-24,Female,Master,Mobile,JavaScript,On-site,AI/ML,Udemy,Very Satisfied
+R0840,2024-07-28,West,18-24,Non-binary,Master,Desktop,Java,Hybrid,Cloud Computing,LinkedIn Learning,Very Dissatisfied
+R0841,2024-07-29,East,55+,Female,Bachelor,Mobile,Python,Remote,AI/ML,Coursera,Satisfied
+R0842,2024-07-29,East,55+,Male,Bachelor,Mobile,Python,Hybrid,Cloud Computing,LinkedIn Learning,Very Satisfied
+R0843,2024-07-29,East,25-34,Male,High School,Mobile,Python,Remote,Blockchain,Coursera,Very Satisfied
+R0844,2024-07-29,North,35-44,Male,Master,Tablet,Python,Hybrid,AI/ML,Udemy,Satisfied
+R0845,2024-07-30,South,25-34,Female,Bachelor,Mobile,Java,Hybrid,Data Analytics,YouTube,Neutral
+R0846,2024-07-30,West,18-24,Female,Bachelor,Tablet,Python,Hybrid,Cloud Computing,Others,Satisfied
+R0847,2024-07-30,Central,55+,Male,Master,Tablet,Python,Hybrid,Cloud Computing,YouTube,Very Satisfied
+R0848,2024-07-30,South,25-34,Male,High School,Desktop,Java,Remote,Cybersecurity,Udemy,Very Dissatisfied
+R0849,2024-07-31,North,25-34,Non-binary,PhD,Desktop,Java,Remote,Cloud Computing,YouTube,Very Satisfied
+R0850,2024-07-31,West,18-24,Male,PhD,Mobile,Others,On-site,Cloud Computing,YouTube,Satisfied
+R0851,2024-07-31,East,25-34,Male,PhD,Mobile,Java,Remote,Cloud Computing,Others,Satisfied
+R0852,2024-07-31,North,35-44,Female,Master,Mobile,Python,On-site,Data Analytics,Coursera,Dissatisfied
+R0853,2024-08-01,East,25-34,Male,Bachelor,Mobile,Python,Hybrid,Cybersecurity,Udemy,Neutral
+R0854,2024-08-01,Central,18-24,Female,Master,Mobile,Python,Remote,Data Analytics,Coursera,Dissatisfied
+R0855,2024-08-01,East,35-44,Female,Master,Mobile,JavaScript,On-site,Cloud Computing,Coursera,Very Satisfied
+R0856,2024-08-01,Central,18-24,Female,Bachelor,Mobile,JavaScript,Remote,Cloud Computing,LinkedIn Learning,Dissatisfied
+R0857,2024-08-02,North,55+,Female,PhD,Mobile,JavaScript,On-site,Data Analytics,Coursera,Satisfied
+R0858,2024-08-02,South,25-34,Male,Bachelor,Desktop,Python,Hybrid,AI/ML,Coursera,Very Satisfied
+R0859,2024-08-02,South,45-54,Female,Bachelor,Mobile,JavaScript,On-site,Cybersecurity,Coursera,Neutral
+R0860,2024-08-02,Central,18-24,Male,PhD,Desktop,JavaScript,Hybrid,AI/ML,Coursera,Neutral
+R0861,2024-08-03,South,45-54,Female,High School,Mobile,Python,Hybrid,AI/ML,Udemy,Dissatisfied
+R0862,2024-08-03,South,55+,Prefer not to say,High School,Mobile,Others,On-site,AI/ML,YouTube,Very Satisfied
+R0863,2024-08-03,Central,18-24,Female,Master,Mobile,JavaScript,Remote,Data Analytics,YouTube,Neutral
+R0864,2024-08-03,West,25-34,Male,Bachelor,Mobile,Java,On-site,Cloud Computing,Udemy,Neutral
+R0865,2024-08-04,Central,25-34,Male,Bachelor,Mobile,Python,Hybrid,AI/ML,Udemy,Very Satisfied
+R0866,2024-08-04,North,25-34,Male,Bachelor,Mobile,Python,Hybrid,AI/ML,YouTube,Dissatisfied
+R0867,2024-08-04,East,25-34,Male,Bachelor,Desktop,JavaScript,Hybrid,AI/ML,YouTube,Neutral
+R0868,2024-08-04,Central,18-24,Female,Bachelor,Mobile,Python,Remote,Cybersecurity,Coursera,Very Satisfied
+R0869,2024-08-05,North,45-54,Male,Master,Mobile,JavaScript,Remote,AI/ML,YouTube,Very Satisfied
+R0870,2024-08-05,East,35-44,Male,High School,Mobile,JavaScript,On-site,Cloud Computing,Coursera,Neutral
+R0871,2024-08-05,Central,45-54,Male,Bachelor,Mobile,JavaScript,Hybrid,Cloud Computing,YouTube,Neutral
+R0872,2024-08-05,West,25-34,Female,Bachelor,Desktop,C++,Hybrid,Cybersecurity,LinkedIn Learning,Satisfied
+R0873,2024-08-06,South,45-54,Male,Bachelor,Desktop,Java,Hybrid,AI/ML,Coursera,Satisfied
+R0874,2024-08-06,North,45-54,Male,Bachelor,Mobile,Others,Hybrid,AI/ML,YouTube,Neutral
+R0875,2024-08-06,East,25-34,Male,High School,Mobile,JavaScript,Remote,AI/ML,YouTube,Very Satisfied
+R0876,2024-08-06,West,18-24,Male,High School,Tablet,C++,Remote,AI/ML,YouTube,Satisfied
+R0877,2024-08-07,North,35-44,Female,PhD,Mobile,Java,On-site,AI/ML,Coursera,Very Satisfied
+R0878,2024-08-07,South,25-34,Female,Bachelor,Tablet,Python,On-site,AI/ML,LinkedIn Learning,Satisfied
+R0879,2024-08-07,North,45-54,Male,Master,Desktop,Python,Hybrid,Cybersecurity,YouTube,Neutral
+R0880,2024-08-07,Central,18-24,Male,Master,Mobile,Python,Remote,Cloud Computing,YouTube,Satisfied
+R0881,2024-08-08,West,25-34,Female,PhD,Desktop,C++,Hybrid,Cybersecurity,YouTube,Very Satisfied
+R0882,2024-08-08,North,25-34,Female,Bachelor,Desktop,JavaScript,Hybrid,Cloud Computing,Udemy,Satisfied
+R0883,2024-08-08,North,55+,Male,High School,Desktop,Python,Hybrid,AI/ML,Coursera,Satisfied
+R0884,2024-08-08,South,25-34,Female,Bachelor,Tablet,Python,Hybrid,Cloud Computing,Others,Very Satisfied
+R0885,2024-08-09,East,45-54,Male,Master,Mobile,Java,On-site,Cybersecurity,Coursera,Very Satisfied
+R0886,2024-08-09,Central,25-34,Male,Master,Mobile,Python,Remote,AI/ML,Udemy,Neutral
+R0887,2024-08-09,East,45-54,Female,Master,Mobile,JavaScript,Hybrid,Cloud Computing,Udemy,Satisfied
+R0888,2024-08-09,Central,18-24,Female,High School,Tablet,Python,Remote,AI/ML,Coursera,Very Satisfied
+R0889,2024-08-10,East,25-34,Male,Bachelor,Desktop,JavaScript,Hybrid,Cybersecurity,Coursera,Very Satisfied
+R0890,2024-08-10,South,45-54,Prefer not to say,Bachelor,Mobile,Python,Remote,Cloud Computing,YouTube,Dissatisfied
+R0891,2024-08-10,South,55+,Female,Master,Desktop,JavaScript,Hybrid,Cybersecurity,Udemy,Very Dissatisfied
+R0892,2024-08-10,West,45-54,Female,Bachelor,Mobile,JavaScript,Hybrid,Data Analytics,Coursera,Neutral
+R0893,2024-08-11,East,18-24,Female,Master,Mobile,JavaScript,Hybrid,AI/ML,YouTube,Very Dissatisfied
+R0894,2024-08-11,South,25-34,Male,Master,Desktop,JavaScript,Remote,Data Analytics,Coursera,Satisfied
+R0895,2024-08-11,East,25-34,Female,PhD,Mobile,C++,Hybrid,Data Analytics,YouTube,Neutral
+R0896,2024-08-11,South,45-54,Male,Bachelor,Mobile,Python,Hybrid,Data Analytics,Udemy,Dissatisfied
+R0897,2024-08-12,South,35-44,Male,High School,Desktop,JavaScript,Hybrid,Cybersecurity,Udemy,Very Satisfied
+R0898,2024-08-12,North,35-44,Male,High School,Mobile,JavaScript,Remote,Cybersecurity,Udemy,Satisfied
+R0899,2024-08-12,West,35-44,Female,Bachelor,Mobile,JavaScript,Remote,Data Analytics,LinkedIn Learning,Neutral
+R0900,2024-08-12,South,25-34,Male,Bachelor,Mobile,JavaScript,Remote,Blockchain,YouTube,Dissatisfied
+R0901,2024-08-13,Central,35-44,Female,Bachelor,Desktop,Python,Remote,Cloud Computing,Coursera,Neutral
+R0902,2024-08-13,South,25-34,Male,High School,Mobile,Python,Remote,Data Analytics,YouTube,Neutral
+R0903,2024-08-13,South,45-54,Female,Bachelor,Mobile,Python,Hybrid,AI/ML,Others,Satisfied
+R0904,2024-08-13,South,45-54,Male,Master,Mobile,Java,Remote,Data Analytics,Udemy,Very Satisfied
+R0905,2024-08-14,North,25-34,Prefer not to say,Bachelor,Mobile,Python,Hybrid,Cloud Computing,Others,Satisfied
+R0906,2024-08-14,West,35-44,Male,Bachelor,Desktop,Others,On-site,AI/ML,YouTube,Very Satisfied
+R0907,2024-08-14,Central,45-54,Female,Bachelor,Mobile,Python,Remote,Cloud Computing,YouTube,Very Satisfied
+R0908,2024-08-14,Central,45-54,Male,Bachelor,Mobile,Java,Hybrid,Cybersecurity,Udemy,Very Satisfied
+R0909,2024-08-15,South,25-34,Male,Master,Mobile,Python,Hybrid,Blockchain,YouTube,Neutral
+R0910,2024-08-15,East,18-24,Female,Master,Mobile,C++,Remote,AI/ML,Others,Satisfied
+R0911,2024-08-15,East,45-54,Male,Master,Mobile,Python,Remote,Data Analytics,YouTube,Neutral
+R0912,2024-08-15,Central,35-44,Female,Bachelor,Mobile,Python,Hybrid,Blockchain,Others,Dissatisfied
+R0913,2024-08-16,Central,25-34,Female,PhD,Mobile,Others,Hybrid,Cybersecurity,Udemy,Very Dissatisfied
+R0914,2024-08-16,South,45-54,Female,Bachelor,Desktop,JavaScript,Hybrid,AI/ML,Coursera,Neutral
+R0915,2024-08-16,South,18-24,Prefer not to say,Bachelor,Desktop,Python,Remote,Cloud Computing,Coursera,Satisfied
+R0916,2024-08-16,East,35-44,Male,Bachelor,Mobile,Python,On-site,Cybersecurity,Udemy,Satisfied
+R0917,2024-08-17,Central,35-44,Female,Bachelor,Tablet,Java,On-site,AI/ML,YouTube,Satisfied
+R0918,2024-08-17,South,45-54,Male,High School,Mobile,Python,Remote,Cybersecurity,Udemy,Very Satisfied
+R0919,2024-08-17,East,25-34,Male,Master,Desktop,Java,Hybrid,AI/ML,Others,Neutral
+R0920,2024-08-17,Central,18-24,Non-binary,Master,Desktop,Python,Hybrid,Blockchain,Udemy,Neutral
+R0921,2024-08-18,Central,25-34,Female,Bachelor,Tablet,Python,Hybrid,Cybersecurity,LinkedIn Learning,Neutral
+R0922,2024-08-18,Central,55+,Male,Bachelor,Mobile,Python,Hybrid,Data Analytics,LinkedIn Learning,Very Satisfied
+R0923,2024-08-18,North,35-44,Female,Bachelor,Desktop,C++,Hybrid,Data Analytics,Coursera,Neutral
+R0924,2024-08-18,East,18-24,Non-binary,Bachelor,Desktop,Python,Remote,AI/ML,Coursera,Neutral
+R0925,2024-08-19,South,35-44,Female,Master,Mobile,C++,Hybrid,Cloud Computing,YouTube,Satisfied
+R0926,2024-08-19,North,35-44,Male,Bachelor,Desktop,Python,Remote,AI/ML,LinkedIn Learning,Very Satisfied
+R0927,2024-08-19,East,35-44,Female,Master,Desktop,Python,Remote,AI/ML,YouTube,Satisfied
+R0928,2024-08-19,South,35-44,Female,Bachelor,Desktop,Python,Remote,Cloud Computing,YouTube,Very Satisfied
+R0929,2024-08-20,South,55+,Female,High School,Desktop,Java,Hybrid,Data Analytics,Coursera,Satisfied
+R0930,2024-08-20,East,35-44,Female,Bachelor,Tablet,C++,On-site,Data Analytics,Others,Very Satisfied
+R0931,2024-08-20,South,35-44,Female,Bachelor,Desktop,Python,Remote,Cybersecurity,YouTube,Satisfied
+R0932,2024-08-20,South,25-34,Female,Bachelor,Desktop,Python,On-site,Cloud Computing,Udemy,Neutral
+R0933,2024-08-21,North,55+,Female,Bachelor,Mobile,Others,Hybrid,AI/ML,Coursera,Neutral
+R0934,2024-08-21,West,45-54,Male,Master,Mobile,Python,Hybrid,Blockchain,Coursera,Satisfied
+R0935,2024-08-21,West,35-44,Female,Master,Mobile,Others,Hybrid,Data Analytics,Udemy,Dissatisfied
+R0936,2024-08-21,North,25-34,Female,Bachelor,Mobile,Java,On-site,AI/ML,LinkedIn Learning,Neutral
+R0937,2024-08-22,East,45-54,Male,High School,Mobile,JavaScript,Hybrid,Data Analytics,LinkedIn Learning,Neutral
+R0938,2024-08-22,West,18-24,Male,Master,Mobile,Python,Hybrid,Cloud Computing,LinkedIn Learning,Satisfied
+R0939,2024-08-22,North,25-34,Female,Bachelor,Mobile,C++,On-site,AI/ML,Coursera,Satisfied
+R0940,2024-08-22,Central,55+,Male,Master,Mobile,Python,Remote,Cloud Computing,Coursera,Very Satisfied
+R0941,2024-08-23,West,25-34,Female,Bachelor,Mobile,Python,Remote,Cloud Computing,YouTube,Satisfied
+R0942,2024-08-23,North,35-44,Female,High School,Mobile,Python,Hybrid,AI/ML,Coursera,Satisfied
+R0943,2024-08-23,Central,35-44,Female,Bachelor,Tablet,Java,Remote,Data Analytics,Coursera,Dissatisfied
+R0944,2024-08-23,Central,18-24,Female,Bachelor,Mobile,Python,Hybrid,AI/ML,YouTube,Neutral
+R0945,2024-08-24,North,18-24,Male,Bachelor,Mobile,Python,On-site,Cybersecurity,Coursera,Satisfied
+R0946,2024-08-24,East,35-44,Male,High School,Desktop,Python,Hybrid,Data Analytics,Udemy,Satisfied
+R0947,2024-08-24,West,18-24,Female,Bachelor,Desktop,Others,On-site,Data Analytics,Coursera,Satisfied
+R0948,2024-08-24,East,35-44,Female,Bachelor,Tablet,Java,On-site,Data Analytics,YouTube,Very Satisfied
+R0949,2024-08-25,North,25-34,Female,Master,Desktop,JavaScript,Remote,AI/ML,YouTube,Satisfied
+R0950,2024-08-25,East,18-24,Male,High School,Desktop,Python,Hybrid,Cloud Computing,Others,Very Satisfied
+R0951,2024-08-25,East,45-54,Female,PhD,Mobile,Python,Remote,Cybersecurity,YouTube,Very Satisfied
+R0952,2024-08-25,East,35-44,Male,Master,Desktop,Python,Hybrid,Cybersecurity,Coursera,Satisfied
+R0953,2024-08-26,South,35-44,Non-binary,Master,Mobile,JavaScript,On-site,AI/ML,Others,Dissatisfied
+R0954,2024-08-26,North,55+,Male,Master,Mobile,Python,Hybrid,Cybersecurity,YouTube,Neutral
+R0955,2024-08-26,North,25-34,Male,Bachelor,Mobile,Python,Remote,AI/ML,Coursera,Very Dissatisfied
+R0956,2024-08-26,North,55+,Female,Master,Desktop,Java,Remote,Cloud Computing,Udemy,Neutral
+R0957,2024-08-27,Central,18-24,Female,Bachelor,Mobile,Python,Hybrid,Data Analytics,Coursera,Dissatisfied
+R0958,2024-08-27,South,18-24,Male,High School,Mobile,Python,Hybrid,Cybersecurity,YouTube,Satisfied
+R0959,2024-08-27,South,35-44,Male,High School,Tablet,Java,Remote,Cloud Computing,Coursera,Neutral
+R0960,2024-08-27,East,18-24,Female,Bachelor,Mobile,Python,Hybrid,AI/ML,YouTube,Satisfied
+R0961,2024-08-28,North,45-54,Male,High School,Desktop,Java,On-site,Cloud Computing,YouTube,Neutral
+R0962,2024-08-28,West,25-34,Female,High School,Tablet,C++,Hybrid,Data Analytics,Udemy,Very Satisfied
+R0963,2024-08-28,East,18-24,Male,Master,Mobile,Python,Hybrid,Data Analytics,YouTube,Satisfied
+R0964,2024-08-28,North,35-44,Male,Master,Mobile,Python,On-site,AI/ML,Coursera,Very Satisfied
+R0965,2024-08-29,East,35-44,Male,High School,Mobile,JavaScript,Hybrid,Cloud Computing,Udemy,Very Satisfied
+R0966,2024-08-29,South,18-24,Male,Bachelor,Mobile,JavaScript,On-site,AI/ML,Udemy,Neutral
+R0967,2024-08-29,East,25-34,Male,High School,Mobile,Java,Remote,AI/ML,Udemy,Neutral
+R0968,2024-08-29,East,35-44,Male,High School,Mobile,JavaScript,On-site,AI/ML,Coursera,Satisfied
+R0969,2024-08-30,East,18-24,Male,Master,Desktop,Python,Remote,AI/ML,Coursera,Dissatisfied
+R0970,2024-08-30,Central,25-34,Male,Master,Mobile,JavaScript,Remote,Cybersecurity,Coursera,Neutral
+R0971,2024-08-30,West,25-34,Female,Master,Mobile,Python,Remote,Cloud Computing,Coursera,Satisfied
+R0972,2024-08-30,North,45-54,Male,Bachelor,Mobile,Python,Remote,AI/ML,YouTube,Neutral
+R0973,2024-08-31,West,25-34,Female,Master,Mobile,Others,On-site,AI/ML,YouTube,Very Satisfied
+R0974,2024-08-31,North,45-54,Male,Master,Desktop,JavaScript,Hybrid,AI/ML,Coursera,Neutral
+R0975,2024-08-31,North,18-24,Female,Master,Mobile,JavaScript,On-site,AI/ML,YouTube,Dissatisfied
+R0976,2024-08-31,South,18-24,Female,Master,Mobile,Python,Remote,Blockchain,YouTube,Neutral
+R0977,2024-09-01,Central,18-24,Prefer not to say,PhD,Desktop,Python,Hybrid,Cybersecurity,Others,Very Satisfied
+R0978,2024-09-01,West,25-34,Male,Bachelor,Desktop,Python,Hybrid,Blockchain,Coursera,Neutral
+R0979,2024-09-01,South,25-34,Female,PhD,Mobile,Java,Remote,AI/ML,Coursera,Very Satisfied
+R0980,2024-09-01,South,35-44,Male,Bachelor,Mobile,JavaScript,On-site,Cybersecurity,Coursera,Dissatisfied
+R0981,2024-09-02,West,25-34,Male,Master,Desktop,Java,Hybrid,Cybersecurity,Others,Satisfied
+R0982,2024-09-02,North,45-54,Male,Master,Tablet,JavaScript,Hybrid,Cloud Computing,Coursera,Satisfied
+R0983,2024-09-02,West,45-54,Female,High School,Mobile,Java,Hybrid,Cloud Computing,LinkedIn Learning,Neutral
+R0984,2024-09-02,South,55+,Male,PhD,Mobile,Python,On-site,AI/ML,Udemy,Neutral
+R0985,2024-09-03,Central,55+,Male,Master,Mobile,Python,On-site,Cloud Computing,Udemy,Satisfied
+R0986,2024-09-03,West,55+,Male,Bachelor,Desktop,JavaScript,Remote,Cloud Computing,Coursera,Very Satisfied
+R0987,2024-09-03,Central,35-44,Non-binary,Master,Desktop,Python,Hybrid,AI/ML,Others,Very Satisfied
+R0988,2024-09-03,South,35-44,Male,Bachelor,Desktop,Python,Remote,Cloud Computing,Udemy,Satisfied
+R0989,2024-09-04,East,35-44,Male,PhD,Mobile,JavaScript,On-site,Data Analytics,YouTube,Satisfied
+R0990,2024-09-04,West,18-24,Female,Master,Desktop,Python,Hybrid,Cybersecurity,LinkedIn Learning,Very Satisfied
+R0991,2024-09-04,North,25-34,Male,Bachelor,Tablet,Python,On-site,AI/ML,YouTube,Very Satisfied
+R0992,2024-09-04,South,55+,Male,Master,Mobile,Others,Remote,AI/ML,YouTube,Satisfied
+R0993,2024-09-05,South,45-54,Female,Master,Mobile,Python,Hybrid,Blockchain,LinkedIn Learning,Dissatisfied
+R0994,2024-09-05,Central,18-24,Male,High School,Mobile,Python,Hybrid,Cybersecurity,LinkedIn Learning,Neutral
+R0995,2024-09-05,Central,18-24,Male,Master,Mobile,Python,Remote,AI/ML,Coursera,Satisfied
+R0996,2024-09-05,East,35-44,Male,Bachelor,Mobile,Python,Hybrid,Cybersecurity,Udemy,Satisfied
+R0997,2024-09-06,East,35-44,Female,Bachelor,Mobile,JavaScript,Hybrid,AI/ML,Udemy,Very Satisfied
+R0998,2024-09-06,North,55+,Non-binary,High School,Mobile,Python,Hybrid,Data Analytics,Others,Neutral
+R0999,2024-09-06,South,35-44,Male,PhD,Desktop,JavaScript,Remote,AI/ML,YouTube,Neutral
+R1000,2024-09-06,East,25-34,Male,Master,Mobile,C++,On-site,Data Analytics,Coursera,Very Satisfied
+R1001,2024-09-07,South,25-34,Male,Master,Mobile,C++,Remote,Cybersecurity,LinkedIn Learning,Neutral
+R1002,2024-09-07,Central,45-54,Non-binary,Bachelor,Mobile,Python,Remote,AI/ML,YouTube,Satisfied
+R1003,2024-09-07,North,18-24,Female,High School,Desktop,Python,On-site,Data Analytics,Udemy,Neutral
+R1004,2024-09-07,North,55+,Female,PhD,Desktop,Python,On-site,AI/ML,Udemy,Very Satisfied
+R1005,2024-09-08,Central,18-24,Male,Bachelor,Desktop,JavaScript,Remote,AI/ML,Udemy,Very Dissatisfied
+R1006,2024-09-08,West,25-34,Female,Bachelor,Mobile,Python,Hybrid,Cybersecurity,Coursera,Satisfied
+R1007,2024-09-08,South,18-24,Female,Bachelor,Mobile,JavaScript,Hybrid,Cybersecurity,Coursera,Dissatisfied
+R1008,2024-09-08,Central,45-54,Female,Bachelor,Tablet,Python,Remote,Cloud Computing,YouTube,Very Dissatisfied
+R1009,2024-09-09,East,35-44,Female,Bachelor,Mobile,JavaScript,Hybrid,Cloud Computing,Udemy,Satisfied
+R1010,2024-09-09,South,18-24,Male,Master,Desktop,Python,Hybrid,Cybersecurity,YouTube,Very Satisfied
+R1011,2024-09-09,Central,35-44,Prefer not to say,Bachelor,Desktop,Python,Remote,Cloud Computing,Coursera,Very Satisfied
+R1012,2024-09-09,South,18-24,Female,Bachelor,Mobile,Python,Remote,Cybersecurity,YouTube,Neutral
+R1013,2024-09-10,North,25-34,Female,Master,Mobile,Java,Hybrid,Data Analytics,Udemy,Neutral
+R1014,2024-09-10,Central,25-34,Female,Bachelor,Mobile,Python,Remote,Cybersecurity,Udemy,Satisfied
+R1015,2024-09-10,North,25-34,Non-binary,Bachelor,Desktop,Java,Hybrid,Cloud Computing,LinkedIn Learning,Satisfied
+R1016,2024-09-10,Central,25-34,Male,High School,Desktop,Python,Remote,AI/ML,Others,Dissatisfied
+R1017,2024-09-11,East,35-44,Male,Bachelor,Tablet,Python,Hybrid,AI/ML,Coursera,Satisfied
+R1018,2024-09-11,East,18-24,Female,Bachelor,Mobile,Python,Hybrid,Cloud Computing,Udemy,Neutral
+R1019,2024-09-11,West,25-34,Male,Bachelor,Desktop,JavaScript,On-site,Data Analytics,YouTube,Very Satisfied
+R1020,2024-09-11,West,25-34,Male,PhD,Mobile,C++,Hybrid,Cybersecurity,YouTube,Satisfied
+R1021,2024-09-12,East,18-24,Male,Bachelor,Mobile,Python,Hybrid,AI/ML,YouTube,Neutral
+R1022,2024-09-12,Central,25-34,Male,Bachelor,Tablet,Java,Hybrid,AI/ML,Udemy,Very Satisfied
+R1023,2024-09-12,West,45-54,Prefer not to say,Bachelor,Mobile,JavaScript,Hybrid,Cybersecurity,YouTube,Satisfied
+R1024,2024-09-12,East,25-34,Female,Bachelor,Desktop,JavaScript,Hybrid,AI/ML,LinkedIn Learning,Satisfied
+R1025,2024-09-13,East,25-34,Male,Bachelor,Mobile,Others,Remote,Cybersecurity,Others,Very Satisfied
+R1026,2024-09-13,West,25-34,Male,Bachelor,Tablet,Python,Hybrid,Cloud Computing,LinkedIn Learning,Very Satisfied
+R1027,2024-09-13,West,35-44,Female,PhD,Desktop,Python,Hybrid,Cloud Computing,Coursera,Satisfied
+R1028,2024-09-13,South,25-34,Prefer not to say,High School,Tablet,JavaScript,Hybrid,Data Analytics,Coursera,Satisfied
+R1029,2024-09-14,South,25-34,Non-binary,Master,Mobile,Python,Hybrid,AI/ML,Udemy,Very Satisfied
+R1030,2024-09-14,East,18-24,Male,Master,Mobile,Others,On-site,Cloud Computing,YouTube,Dissatisfied
+R1031,2024-09-14,Central,45-54,Male,PhD,Mobile,Java,On-site,AI/ML,Others,Satisfied
+R1032,2024-09-14,Central,25-34,Non-binary,High School,Desktop,JavaScript,Hybrid,AI/ML,Udemy,Very Satisfied
+R1033,2024-09-15,East,25-34,Non-binary,High School,Mobile,Python,Hybrid,AI/ML,Coursera,Dissatisfied
+R1034,2024-09-15,West,35-44,Male,Master,Mobile,Java,Remote,Cloud Computing,Coursera,Dissatisfied
+R1035,2024-09-15,North,35-44,Male,Master,Tablet,Python,Hybrid,Data Analytics,Coursera,Satisfied
+R1036,2024-09-15,East,35-44,Male,Master,Mobile,Python,Hybrid,Cloud Computing,YouTube,Neutral
+R1037,2024-09-16,Central,55+,Non-binary,Master,Mobile,Python,On-site,Cloud Computing,Udemy,Neutral
+R1038,2024-09-16,South,55+,Female,Bachelor,Tablet,JavaScript,Remote,Cloud Computing,LinkedIn Learning,Neutral
+R1039,2024-09-16,West,45-54,Male,Master,Desktop,Python,Remote,Blockchain,LinkedIn Learning,Dissatisfied
+R1040,2024-09-16,Central,35-44,Female,Bachelor,Mobile,Java,Hybrid,Cybersecurity,Coursera,Satisfied
+R1041,2024-09-17,North,25-34,Male,High School,Tablet,Python,Remote,Cloud Computing,Udemy,Very Satisfied
+R1042,2024-09-17,West,45-54,Male,Bachelor,Tablet,Java,Hybrid,AI/ML,Coursera,Satisfied
+R1043,2024-09-17,North,25-34,Female,Bachelor,Desktop,Java,Remote,Data Analytics,YouTube,Dissatisfied
+R1044,2024-09-17,North,18-24,Female,Bachelor,Tablet,Python,Remote,Cloud Computing,Coursera,Satisfied
+R1045,2024-09-18,West,45-54,Female,PhD,Mobile,Java,Hybrid,Cybersecurity,Coursera,Very Dissatisfied
+R1046,2024-09-18,West,55+,Female,PhD,Desktop,Python,Remote,Cloud Computing,YouTube,Satisfied
+R1047,2024-09-18,East,35-44,Prefer not to say,PhD,Mobile,Python,Hybrid,Cloud Computing,LinkedIn Learning,Satisfied
+R1048,2024-09-18,East,45-54,Female,High School,Desktop,Python,Remote,AI/ML,Coursera,Satisfied
+R1049,2024-09-19,South,35-44,Female,Bachelor,Mobile,C++,Remote,Data Analytics,Udemy,Satisfied
+R1050,2024-09-19,South,18-24,Male,High School,Desktop,Python,Hybrid,Cloud Computing,YouTube,Very Satisfied
+R1051,2024-09-19,North,18-24,Female,Bachelor,Desktop,Python,Hybrid,Cloud Computing,Udemy,Satisfied
+R1052,2024-09-19,North,35-44,Male,Bachelor,Desktop,Python,Hybrid,Cloud Computing,Udemy,Neutral
+R1053,2024-09-20,East,35-44,Female,Bachelor,Mobile,Java,Hybrid,AI/ML,LinkedIn Learning,Very Satisfied
+R1054,2024-09-20,West,45-54,Non-binary,High School,Desktop,Python,Remote,AI/ML,Udemy,Satisfied
+R1055,2024-09-20,North,35-44,Female,Master,Tablet,Python,On-site,Data Analytics,YouTube,Very Satisfied
+R1056,2024-09-20,East,25-34,Female,Bachelor,Desktop,JavaScript,Remote,Data Analytics,Coursera,Very Dissatisfied
+R1057,2024-09-21,North,55+,Male,Bachelor,Mobile,JavaScript,On-site,Cloud Computing,Others,Neutral
+R1058,2024-09-21,West,45-54,Male,Bachelor,Tablet,C++,On-site,Data Analytics,YouTube,Dissatisfied
+R1059,2024-09-21,South,55+,Male,Bachelor,Mobile,Python,Remote,Data Analytics,LinkedIn Learning,Very Satisfied
+R1060,2024-09-21,West,35-44,Male,Bachelor,Desktop,Java,Hybrid,Cybersecurity,YouTube,Satisfied
+R1061,2024-09-22,North,25-34,Female,PhD,Mobile,Python,Hybrid,Data Analytics,Udemy,Dissatisfied
+R1062,2024-09-22,East,45-54,Male,Bachelor,Mobile,JavaScript,On-site,Data Analytics,YouTube,Very Satisfied
+R1063,2024-09-22,South,25-34,Female,PhD,Tablet,JavaScript,On-site,Cloud Computing,YouTube,Satisfied
+R1064,2024-09-22,East,45-54,Male,Bachelor,Mobile,Others,Hybrid,Cybersecurity,Udemy,Satisfied
+R1065,2024-09-23,East,55+,Male,PhD,Mobile,Python,On-site,Data Analytics,Others,Neutral
+R1066,2024-09-23,Central,45-54,Female,Bachelor,Mobile,Others,Hybrid,Cloud Computing,Coursera,Satisfied
+R1067,2024-09-23,East,18-24,Female,Bachelor,Desktop,Python,Remote,AI/ML,Udemy,Very Satisfied
+R1068,2024-09-23,Central,25-34,Male,High School,Mobile,Java,On-site,Cybersecurity,YouTube,Satisfied
+R1069,2024-09-24,East,55+,Male,Master,Mobile,Python,Hybrid,AI/ML,LinkedIn Learning,Satisfied
+R1070,2024-09-24,West,18-24,Non-binary,High School,Desktop,Java,On-site,Cloud Computing,Udemy,Satisfied
+R1071,2024-09-24,North,25-34,Male,PhD,Mobile,JavaScript,Hybrid,Cloud Computing,Udemy,Very Satisfied
+R1072,2024-09-24,East,25-34,Non-binary,Master,Tablet,Python,Remote,AI/ML,YouTube,Satisfied
+R1073,2024-09-25,West,25-34,Female,PhD,Desktop,Python,Remote,Cloud Computing,YouTube,Neutral
+R1074,2024-09-25,South,45-54,Female,Master,Mobile,Python,Hybrid,Cloud Computing,YouTube,Very Satisfied
+R1075,2024-09-25,North,45-54,Male,Bachelor,Mobile,JavaScript,On-site,Data Analytics,Coursera,Very Satisfied
+R1076,2024-09-25,East,35-44,Female,Master,Mobile,JavaScript,Remote,Cybersecurity,Coursera,Neutral
+R1077,2024-09-26,North,25-34,Female,Bachelor,Desktop,JavaScript,Hybrid,Cloud Computing,Coursera,Neutral
+R1078,2024-09-26,East,35-44,Male,Bachelor,Mobile,Python,Remote,Cybersecurity,LinkedIn Learning,Very Satisfied
+R1079,2024-09-26,Central,35-44,Female,Master,Desktop,Python,Remote,AI/ML,Udemy,Satisfied
+R1080,2024-09-26,West,25-34,Female,High School,Mobile,Python,Hybrid,AI/ML,LinkedIn Learning,Very Satisfied
+R1081,2024-09-27,South,45-54,Male,PhD,Tablet,Python,Remote,Cloud Computing,LinkedIn Learning,Neutral
+R1082,2024-09-27,West,45-54,Male,Master,Desktop,JavaScript,On-site,Cybersecurity,YouTube,Satisfied
+R1083,2024-09-27,East,18-24,Non-binary,High School,Desktop,JavaScript,Remote,Data Analytics,LinkedIn Learning,Satisfied
+R1084,2024-09-27,South,18-24,Male,Bachelor,Mobile,Others,Hybrid,Data Analytics,Udemy,Satisfied
+R1085,2024-09-28,Central,25-34,Female,Bachelor,Mobile,C++,Hybrid,Data Analytics,Others,Very Satisfied
+R1086,2024-09-28,East,25-34,Female,Master,Mobile,JavaScript,Hybrid,AI/ML,LinkedIn Learning,Neutral
+R1087,2024-09-28,Central,25-34,Male,Bachelor,Mobile,Others,Remote,Cybersecurity,Coursera,Satisfied
+R1088,2024-09-28,North,35-44,Female,Bachelor,Tablet,Python,Hybrid,Cloud Computing,YouTube,Dissatisfied
+R1089,2024-09-29,South,18-24,Male,Master,Mobile,Java,Remote,AI/ML,LinkedIn Learning,Very Satisfied
+R1090,2024-09-29,Central,18-24,Female,Bachelor,Desktop,Python,Remote,AI/ML,YouTube,Satisfied
+R1091,2024-09-29,East,35-44,Female,Master,Desktop,Python,Hybrid,Cloud Computing,LinkedIn Learning,Satisfied
+R1092,2024-09-29,North,35-44,Male,PhD,Desktop,Python,Remote,Cloud Computing,Udemy,Satisfied
+R1093,2024-09-30,West,35-44,Male,High School,Desktop,Python,On-site,Cloud Computing,Udemy,Dissatisfied
+R1094,2024-09-30,Central,25-34,Male,Master,Mobile,Python,On-site,AI/ML,YouTube,Very Satisfied
+R1095,2024-09-30,West,35-44,Male,Bachelor,Mobile,JavaScript,Remote,Data Analytics,YouTube,Very Dissatisfied
+R1096,2024-09-30,North,45-54,Male,High School,Desktop,C++,Hybrid,Cybersecurity,Udemy,Dissatisfied
+R1097,2024-10-01,South,35-44,Female,Bachelor,Desktop,Python,Remote,Cloud Computing,Udemy,Very Satisfied
+R1098,2024-10-01,South,55+,Male,Master,Desktop,JavaScript,On-site,Cybersecurity,Coursera,Satisfied
+R1099,2024-10-01,West,35-44,Female,Bachelor,Mobile,Python,Remote,AI/ML,LinkedIn Learning,Neutral
+R1100,2024-10-01,West,35-44,Female,Bachelor,Desktop,Python,On-site,Cybersecurity,YouTube,Satisfied
+R1101,2024-10-02,East,18-24,Female,Bachelor,Mobile,Others,Hybrid,Data Analytics,Udemy,Satisfied
+R1102,2024-10-02,East,35-44,Prefer not to say,Bachelor,Desktop,C++,Hybrid,Data Analytics,Coursera,Very Dissatisfied
+R1103,2024-10-02,West,18-24,Female,Bachelor,Mobile,JavaScript,Remote,Cloud Computing,LinkedIn Learning,Very Satisfied
+R1104,2024-10-02,South,18-24,Male,Master,Desktop,Others,Hybrid,AI/ML,Others,Neutral
+R1105,2024-10-03,East,35-44,Non-binary,Master,Mobile,Java,Remote,Cloud Computing,Coursera,Very Satisfied
+R1106,2024-10-03,North,18-24,Female,Master,Tablet,Python,Hybrid,Data Analytics,YouTube,Neutral
+R1107,2024-10-03,West,18-24,Female,Master,Mobile,Python,Remote,AI/ML,Coursera,Satisfied
+R1108,2024-10-03,South,55+,Male,High School,Mobile,JavaScript,Hybrid,AI/ML,YouTube,Neutral
+R1109,2024-10-04,Central,25-34,Male,Master,Desktop,Python,On-site,Cloud Computing,Coursera,Neutral
+R1110,2024-10-04,Central,45-54,Male,Bachelor,Mobile,Python,Hybrid,Data Analytics,Udemy,Very Dissatisfied
+R1111,2024-10-04,South,45-54,Female,Bachelor,Desktop,Python,Hybrid,Cloud Computing,YouTube,Neutral
+R1112,2024-10-04,West,25-34,Male,Bachelor,Desktop,C++,On-site,Cloud Computing,Udemy,Satisfied
+R1113,2024-10-05,West,25-34,Male,Master,Mobile,Java,On-site,Cloud Computing,Coursera,Dissatisfied
+R1114,2024-10-05,West,25-34,Male,Master,Desktop,Python,Remote,Data Analytics,Udemy,Very Dissatisfied
+R1115,2024-10-05,West,55+,Male,Master,Mobile,JavaScript,Hybrid,AI/ML,LinkedIn Learning,Dissatisfied
+R1116,2024-10-05,North,35-44,Male,Bachelor,Desktop,Python,On-site,AI/ML,Udemy,Neutral
+R1117,2024-10-06,South,25-34,Female,Master,Mobile,JavaScript,Remote,AI/ML,Coursera,Very Satisfied
+R1118,2024-10-06,Central,45-54,Non-binary,Master,Tablet,JavaScript,Hybrid,Blockchain,Udemy,Very Satisfied
+R1119,2024-10-06,West,55+,Female,Bachelor,Desktop,Others,Remote,Cybersecurity,YouTube,Neutral
+R1120,2024-10-06,West,18-24,Male,Master,Mobile,Python,On-site,AI/ML,Coursera,Dissatisfied
+R1121,2024-10-07,South,25-34,Female,Master,Tablet,C++,Hybrid,AI/ML,YouTube,Satisfied
+R1122,2024-10-07,North,45-54,Female,High School,Desktop,Python,Hybrid,Cybersecurity,Coursera,Satisfied
+R1123,2024-10-07,North,25-34,Female,PhD,Mobile,Python,Hybrid,Data Analytics,YouTube,Satisfied
+R1124,2024-10-07,West,35-44,Male,Master,Mobile,JavaScript,Hybrid,Data Analytics,Coursera,Satisfied
+R1125,2024-10-08,South,45-54,Male,Bachelor,Mobile,Java,Hybrid,Cloud Computing,Coursera,Dissatisfied
+R1126,2024-10-08,East,45-54,Female,PhD,Mobile,Others,Remote,Cloud Computing,LinkedIn Learning,Satisfied
+R1127,2024-10-08,South,25-34,Female,Bachelor,Desktop,C++,Hybrid,AI/ML,Others,Satisfied
+R1128,2024-10-08,North,18-24,Female,High School,Mobile,Python,Remote,Cybersecurity,LinkedIn Learning,Neutral
+R1129,2024-10-09,South,25-34,Prefer not to say,High School,Desktop,Python,On-site,AI/ML,Coursera,Neutral
+R1130,2024-10-09,East,25-34,Female,Master,Mobile,Python,Hybrid,AI/ML,Udemy,Very Satisfied
+R1131,2024-10-09,East,18-24,Female,High School,Mobile,Python,On-site,AI/ML,Udemy,Very Satisfied
+R1132,2024-10-09,North,35-44,Male,PhD,Tablet,Java,Hybrid,Cloud Computing,Coursera,Dissatisfied
+R1133,2024-10-10,West,35-44,Male,High School,Tablet,Python,Hybrid,AI/ML,LinkedIn Learning,Very Satisfied
+R1134,2024-10-10,Central,18-24,Female,Master,Mobile,JavaScript,Remote,AI/ML,LinkedIn Learning,Satisfied
+R1135,2024-10-10,South,18-24,Male,Master,Mobile,Others,On-site,AI/ML,YouTube,Dissatisfied
+R1136,2024-10-10,South,18-24,Male,Bachelor,Desktop,Python,Remote,Data Analytics,Udemy,Neutral
+R1137,2024-10-11,West,25-34,Female,Bachelor,Mobile,Java,Hybrid,Blockchain,Coursera,Dissatisfied
+R1138,2024-10-11,Central,25-34,Female,Bachelor,Tablet,Python,Hybrid,Cloud Computing,YouTube,Very Satisfied
+R1139,2024-10-11,East,45-54,Female,Master,Mobile,JavaScript,Remote,Data Analytics,Others,Satisfied
+R1140,2024-10-11,North,18-24,Female,Master,Desktop,Python,Hybrid,Cybersecurity,Coursera,Satisfied
+R1141,2024-10-12,North,25-34,Female,Bachelor,Desktop,JavaScript,Remote,Cloud Computing,Coursera,Satisfied
+R1142,2024-10-12,North,25-34,Male,High School,Mobile,Python,On-site,Cloud Computing,Udemy,Satisfied
+R1143,2024-10-12,West,25-34,Non-binary,Bachelor,Desktop,Python,Remote,Cybersecurity,YouTube,Satisfied
+R1144,2024-10-12,North,35-44,Prefer not to say,Bachelor,Desktop,Python,Hybrid,Data Analytics,LinkedIn Learning,Neutral
+R1145,2024-10-13,South,35-44,Male,Bachelor,Mobile,C++,On-site,Cloud Computing,YouTube,Dissatisfied
+R1146,2024-10-13,North,35-44,Male,Bachelor,Tablet,Python,Hybrid,AI/ML,Others,Dissatisfied
+R1147,2024-10-13,South,18-24,Female,Bachelor,Desktop,Python,Remote,Cybersecurity,YouTube,Dissatisfied
+R1148,2024-10-13,North,25-34,Prefer not to say,Bachelor,Desktop,Python,Hybrid,Cybersecurity,Coursera,Dissatisfied
+R1149,2024-10-14,West,25-34,Female,Bachelor,Mobile,Python,Remote,Cloud Computing,LinkedIn Learning,Satisfied
+R1150,2024-10-14,Central,25-34,Male,Master,Mobile,JavaScript,Remote,Cloud Computing,YouTube,Very Dissatisfied
+R1151,2024-10-14,South,55+,Female,Bachelor,Mobile,C++,On-site,AI/ML,Coursera,Satisfied
+R1152,2024-10-14,North,35-44,Female,Bachelor,Desktop,JavaScript,Remote,AI/ML,Udemy,Dissatisfied
+R1153,2024-10-15,West,18-24,Male,High School,Desktop,Java,Remote,Data Analytics,Udemy,Neutral
+R1154,2024-10-15,Central,18-24,Female,High School,Mobile,C++,On-site,Cloud Computing,Udemy,Neutral
+R1155,2024-10-15,Central,18-24,Female,Bachelor,Mobile,Python,Hybrid,Data Analytics,Udemy,Very Dissatisfied
+R1156,2024-10-15,North,45-54,Female,Master,Desktop,JavaScript,On-site,Data Analytics,YouTube,Dissatisfied
+R1157,2024-10-16,South,25-34,Female,Bachelor,Desktop,Python,Remote,Cloud Computing,YouTube,Neutral
+R1158,2024-10-16,South,25-34,Male,Bachelor,Desktop,Python,Hybrid,Data Analytics,Udemy,Neutral
+R1159,2024-10-16,North,25-34,Female,Master,Desktop,JavaScript,Hybrid,AI/ML,LinkedIn Learning,Neutral
+R1160,2024-10-16,East,55+,Male,Bachelor,Desktop,Java,Hybrid,AI/ML,YouTube,Neutral
+R1161,2024-10-17,South,45-54,Non-binary,Master,Mobile,Java,Remote,AI/ML,YouTube,Satisfied
+R1162,2024-10-17,Central,25-34,Male,PhD,Mobile,Java,Remote,AI/ML,Others,Very Satisfied
+R1163,2024-10-17,East,25-34,Male,High School,Mobile,Python,Hybrid,Cloud Computing,Coursera,Satisfied
+R1164,2024-10-17,Central,55+,Female,PhD,Mobile,Python,Hybrid,Cybersecurity,Coursera,Satisfied
+R1165,2024-10-18,Central,45-54,Male,Master,Mobile,Python,Remote,Cloud Computing,YouTube,Neutral
+R1166,2024-10-18,South,35-44,Male,High School,Desktop,JavaScript,On-site,Blockchain,Coursera,Satisfied
+R1167,2024-10-18,Central,55+,Female,Master,Desktop,Python,Hybrid,Data Analytics,Udemy,Very Satisfied
+R1168,2024-10-18,South,18-24,Male,PhD,Mobile,Python,Remote,Cybersecurity,Coursera,Very Satisfied
+R1169,2024-10-19,North,25-34,Female,Bachelor,Tablet,Python,Remote,Cybersecurity,Coursera,Neutral
+R1170,2024-10-19,South,35-44,Female,PhD,Mobile,Python,Hybrid,Data Analytics,Others,Very Satisfied
+R1171,2024-10-19,North,35-44,Male,Bachelor,Mobile,JavaScript,On-site,Blockchain,Coursera,Neutral
+R1172,2024-10-19,Central,18-24,Female,Bachelor,Mobile,Python,Remote,Cybersecurity,YouTube,Satisfied
+R1173,2024-10-20,North,45-54,Female,Bachelor,Desktop,Python,Remote,Cybersecurity,YouTube,Very Satisfied
+R1174,2024-10-20,West,25-34,Male,Bachelor,Mobile,Java,Hybrid,Cybersecurity,Udemy,Satisfied
+R1175,2024-10-20,South,25-34,Male,PhD,Desktop,Python,Remote,AI/ML,YouTube,Very Satisfied
+R1176,2024-10-20,East,45-54,Female,Bachelor,Mobile,JavaScript,On-site,Data Analytics,Others,Satisfied
+R1177,2024-10-21,West,18-24,Female,Bachelor,Mobile,JavaScript,Remote,AI/ML,YouTube,Very Satisfied
+R1178,2024-10-21,North,18-24,Male,Bachelor,Tablet,Python,Remote,Cloud Computing,LinkedIn Learning,Neutral
+R1179,2024-10-21,South,35-44,Female,Master,Desktop,C++,On-site,Cloud Computing,Coursera,Neutral
+R1180,2024-10-21,West,18-24,Prefer not to say,High School,Mobile,C++,Remote,Cloud Computing,YouTube,Satisfied
+R1181,2024-10-22,North,25-34,Male,PhD,Tablet,Python,Hybrid,AI/ML,YouTube,Very Satisfied
+R1182,2024-10-22,Central,55+,Male,High School,Mobile,JavaScript,Hybrid,AI/ML,Udemy,Satisfied
+R1183,2024-10-22,Central,35-44,Male,Master,Desktop,Python,Remote,Data Analytics,YouTube,Very Satisfied
+R1184,2024-10-22,East,45-54,Female,PhD,Mobile,Python,Hybrid,Cybersecurity,YouTube,Very Satisfied
+R1185,2024-10-23,North,35-44,Female,Master,Tablet,Python,On-site,Data Analytics,Coursera,Very Dissatisfied
+R1186,2024-10-23,South,55+,Female,Master,Desktop,Python,Hybrid,Cloud Computing,LinkedIn Learning,Neutral
+R1187,2024-10-23,Central,18-24,Female,PhD,Desktop,Python,Remote,AI/ML,Udemy,Neutral
+R1188,2024-10-23,Central,25-34,Male,Master,Desktop,Others,On-site,Cloud Computing,Udemy,Dissatisfied
+R1189,2024-10-24,East,25-34,Male,High School,Desktop,Python,Remote,AI/ML,Udemy,Satisfied
+R1190,2024-10-24,West,18-24,Male,Bachelor,Mobile,Python,Remote,Data Analytics,Udemy,Very Satisfied
+R1191,2024-10-24,North,55+,Female,Bachelor,Desktop,Java,Hybrid,Cloud Computing,Coursera,Very Satisfied
+R1192,2024-10-24,Central,35-44,Male,PhD,Tablet,Others,On-site,Blockchain,YouTube,Dissatisfied
+R1193,2024-10-25,Central,25-34,Male,PhD,Mobile,C++,Remote,AI/ML,Coursera,Satisfied
+R1194,2024-10-25,West,35-44,Male,High School,Mobile,Python,On-site,Cloud Computing,YouTube,Satisfied
+R1195,2024-10-25,North,18-24,Male,Master,Tablet,Java,Remote,AI/ML,Udemy,Neutral
+R1196,2024-10-25,Central,18-24,Male,Master,Desktop,C++,Hybrid,Blockchain,Coursera,Dissatisfied
+R1197,2024-10-26,Central,45-54,Male,High School,Mobile,Python,On-site,AI/ML,YouTube,Neutral
+R1198,2024-10-26,North,25-34,Male,Master,Mobile,C++,Hybrid,Data Analytics,Coursera,Satisfied
+R1199,2024-10-26,North,18-24,Female,High School,Mobile,JavaScript,Remote,AI/ML,LinkedIn Learning,Dissatisfied
+R1200,2024-10-26,North,18-24,Prefer not to say,High School,Tablet,Python,On-site,AI/ML,Others,Satisfied
